@@ -1,0 +1,32 @@
+{
+  "@renku_data_type": "renku.core.models.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "1.0.5",
+  "annotations": [],
+  "automated_update": false,
+  "creator": {
+    "@renku_data_type": "renku.core.models.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "eric.bouillet@epfl.ch",
+      "id": "mailto:eric.bouillet@epfl.ch",
+      "name": "Eric Pierre Bouillet"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2022-01-24T14:08:54+00:00"
+  },
+  "description": null,
+  "id": "/projects/com490-teachers/com490-2022",
+  "immutable_template_files": [],
+  "keywords": [],
+  "name": "hadoop-base",
+  "template_id": "python-minimal",
+  "template_metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.2.1\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"ebouille\", \"__automated_update__\": true, \"__repository__\": \"https://sv-renku-git.epfl.ch\", \"__sanitized_project_name__\": \"hadoop-base\", \"__project_slug__\": \"ebouille/hadoop-base\", \"__renku_version__\": \"0.16.2\", \"name\": \"hadoop-base\"}",
+  "template_ref": "0.2.1",
+  "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+  "template_version": "ee01a22fe6cfb6b8af1f631919e784fa3efd5c6d",
+  "version": "9"
+}

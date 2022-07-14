@@ -1,0 +1,32 @@
+{
+  "@renku_data_type": "renku.core.models.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "1.0.5",
+  "annotations": [],
+  "automated_update": false,
+  "creator": {
+    "@renku_data_type": "renku.core.models.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "cyril.matthey-doret@epfl.ch",
+      "id": "mailto:cyril.matthey-doret@epfl.ch",
+      "name": "Cyril Matthey-Doret"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2022-04-04T14:59:55+00:00"
+  },
+  "description": "DSLAB 2022 - homework 3",
+  "id": "/projects/cyril.matthey-doret/homework-3",
+  "immutable_template_files": [],
+  "keywords": [],
+  "name": "homework-3",
+  "template_id": "python-minimal",
+  "template_metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.3.0\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"com490\", \"__automated_update__\": true, \"__repository__\": \"https://dslab2022-renku.epfl.ch/gitlab\", \"__sanitized_project_name__\": \"homework-3\", \"__project_slug__\": \"com490/homework-3\", \"__project_description__\": \"DSLAB 2022 - homework 3\", \"__renku_version__\": \"1.0.5\", \"name\": \"homework-3\", \"__name__\": \"homework-3\"}",
+  "template_ref": "0.3.0",
+  "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+  "template_version": "fc5fddb1e14055ef5ac3b3332fc9bb8e271d7e08",
+  "version": 9
+}

@@ -1,0 +1,42 @@
+{
+  "@renku_data_type": "renku.core.metadata.database.RenkuOOBTree",
+  "@renku_data_value": {
+    "@renku_data_type": "builtins.tuple",
+    "@renku_data_value": [
+      {
+        "@renku_data_type": "builtins.tuple",
+        "@renku_data_value": [
+          {
+            "@renku_data_type": "builtins.tuple",
+            "@renku_data_value": [
+              {
+                "@renku_data_type": "builtins.tuple",
+                "@renku_data_value": [
+                  "carbosense",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "00014c5bf70cccd8270f774cb9cc50c4f5b14bc646b8b2f5c5076f6d320e61af",
+                    "@renku_reference": true
+                  },
+                  "gutenberg-metadata",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "971429ee907f093ec15ccafe5900ac037bfbc314047760a53611c52fabda466d",
+                    "@renku_reference": true
+                  },
+                  "promoter-sequences-classification",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "da87348d9dd64558460fd7396d0b2456f1b3f0ba5f808962a58a77d97749fcd6",
+                    "@renku_reference": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "@renku_oid": "datasets"
+}

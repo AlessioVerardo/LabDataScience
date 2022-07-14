@@ -1,0 +1,1547 @@
+stop_id,stop_name,stop_lat,stop_lon
+8591412,"Zürich, Voltastrasse",47.37687,8.554522
+8590933,"Winterthur, Dättnau",47.485134,8.691515
+8587952,"Uster, Zentralstrasse",47.34716,8.717925
+8590720,"Nänikon, Grossriet",47.374046,8.680798
+8588011,"Herrliberg-Feldmeilen, Bahnhof",47.28134,8.612796
+8576251,"Watt, Laubisser",47.447475,8.477778
+8591276,"Zürich, Milchbuck",47.39779,8.541775
+8590223,"Dietikon, Stadthaus",47.40255,8.400694
+8591155,"Zürich, Geeringstrasse",47.414444,8.480437
+8590884,"Wallisellen, Florastrasse",47.4117,8.597273
+8591061,"Zürich Leimbach, Bahnhof",47.333252,8.518598
+8590515,"Dietikon, Hagackerstrasse",47.41753,8.396795
+8503127,Schwerzenbach ZH,47.384388,8.658672
+8594305,"Würenlos, Bahnhofplatz",47.44575,8.359147
+8579967,"Kloten, Weinbergstrasse",47.466152,8.580151
+8576132,"Volketswil, Chapf",47.39322,8.67937
+8590632,"Opfikon, Zil",47.422733,8.576862
+8590623,"Glattbrugg, Halden",47.428093,8.56964
+8591128,"Zürich, Fernsehstudio",47.418175,8.561744
+8588532,"Mönchaltorf, Huebstock",47.305332,8.720692
+8590542,"Dietlikon, Dübendorferstrasse",47.412933,8.620323
+8590594,"Dübendorf, Zwinggarten",47.404278,8.619713
+8587653,"Dübendorf, Bahnhof",47.39973,8.623638
+8591271,"Zürich, Mattenhof",47.39864,8.590921
+8591393,"Zürich, Tierspital",47.4019,8.5518
+8576168,Birchwil (Nürensdorf),47.458023,8.639035
+8573195,"Obfelden, Hölibachstrasse",47.268692,8.432818
+8595075,"Dietlikon, In Lampitzäckern",47.417225,8.614951
+8590733,"Oberhasli, Spielplatz",47.471912,8.499877
+8503376,Ottikon b. Kemptthal,47.435314,8.716937
+8502879,"Jonen, Taverne",47.29618,8.395511
+8580449,"Zürich Oerlikon, Bahnhof",47.411495,8.544793
+8577912,"Horgen, untere Mühle",47.259186,8.598099
+8591425,"Zürich, Weihersteig",47.39779,8.528516
+8591254,"Zürich, Letzipark West",47.386364,8.496464
+8587860,"Uster, Strick",47.35645,8.71276
+8590899,"Wallisellen, Zentrum",47.41418,8.590868
+8590271,"Spreitenbach, Dorf",47.419514,8.36672
+8591132,"Zürich, Flobotstrasse",47.380577,8.568042
+8590817,"Thalwil, Gewerbestrasse",47.286686,8.565418
+8591212,"Zürich, Im Walder",47.348118,8.574366
+8591094,"Zürich, Botanischer Garten",47.35934,8.557837
+8573166,"Thalwil, Mühlebachplatz",47.29127,8.564898
+8591270,"Zürich, Marbachweg",47.33035,8.515373
+8502208,Horgen Oberdorf,47.258747,8.589816
+8594304,"Würenlos, Altwiesen",47.434093,8.36221
+8590655,"Horgen, Panorama/CS",47.258144,8.587068
+8591188,"Zürich, Herzogenmühlestrasse",47.40753,8.572703
+8588057,"Uster, Himmelriich",47.356834,8.7294235
+8591190,"Zürich, Heuried",47.36941,8.506354
+8591404,"Zürich, Tunnelstrasse",47.366142,8.532531
+8576086,"Uetikon am See, Grossdorf",47.266453,8.674204
+8590829,"Thalwil, Trotte",47.291195,8.56603
+8591298,"Zürich, Ottikerstrasse",47.38519,8.542413
+8591229,"Zürich, Kinkelstrasse",47.388885,8.546338
+8590480,"Adliswil, Rifertstrasse",47.309948,8.53183
+8591326,"Zürich, Rotbuchstrasse",47.391277,8.536116
+8590698,"Kloten, Schulstrasse",47.445843,8.587669
+8503863,"Horgen, Hanegg",47.231213,8.612203
+8503093,Zürich Manegg,47.337933,8.519631
+8591427,"Zürich, Werd",47.372326,8.526845
+8590790,"Schlieren, Feldstrasse",47.403427,8.447891
+8503003,Zürich Stadelhofen,47.36661,8.548485
+8573162,"Gattikon, Gattikerhof",47.283306,8.54561
+8590556,"Dübendorf, Innovationspark",47.40566,8.630609
+8591309,"Zürich, Rathaus",47.37174,8.542879
+8576133,"Kindhausen ZH, Bodenacher",47.405067,8.68007
+8590732,"Oberhasli, Post",47.46811,8.500749
+8590844,"Urdorf, Oberurdorf",47.377804,8.422973
+8591303,"Zürich, Platte",47.375008,8.552644
+8591202,"Zürich, Hottingerplatz",47.369473,8.554405
+8576154,"Kloten, Oberfeld",47.449085,8.597739
+8591416,"Zürich, Waidbadstrasse",47.398975,8.51354
+8590707,"Langnau am Albis, Hehlstrasse",47.28446,8.536897
+8503512,Glanzenberg,47.39888,8.420439
+8576225,"Zumikon, Waltikon",47.33611,8.618185
+8590684,"Kilchberg ZH, Paradiesstrasse",47.328728,8.547218
+8590549,"Dübendorf, Bauhof",47.394817,8.63458
+8591316,"Zürich, Rennweg",47.373066,8.53846
+8587859,"Uster, Loren",47.358025,8.711619
+8502229,Urdorf Weihermatt,47.38097,8.430339
+8502209,Oberrieden Dorf,47.27673,8.577653
+8595710,"Rümlang, Ifangstrasse",47.44826,8.535909
+8576236,"Otelfingen, Post",47.460484,8.390139
+8588985,"Horgen, Heubach",47.25469,8.598054
+8591436,"Zürich, Winzerstrasse Süd",47.403374,8.486124
+8591192,"Zürich, Hinterbergstrasse",47.380104,8.554576
+8576159,"Bassersdorf, Schmitte",47.442944,8.628767
+8576184,"Zollikon, Bahnhof",47.337765,8.569775
+8576270,"Regensdorf, Sportanlage Wisa.",47.437508,8.461214
+8502554,"Rifferswil, Oberrifferswil",47.242607,8.49694
+8580300,"Mettmenstetten, Rossauerstr.",47.24223,8.464699
+8503754,"Horgenberg, Wührenbach",47.246803,8.589017
+8591293,"Zürich, Oberwiesenstrasse",47.41048,8.532819
+8503314,Niederhasli,47.47833,8.488711
+8590799,"Schlieren, Rütistrasse",47.400806,8.45374
+8503526,Regensdorf-Watt,47.436565,8.472083
+8587970,"Erlenbach ZH, Föhrenstrasse",47.307083,8.607855
+8572567,"Künten, Gried",47.38711,8.329916
+8591385,"Zürich, Strassenverkehrsamt",47.35315,8.511322
+8591038,"Zürich, Albisriederplatz",47.378212,8.510396
+8576198,"Zürich, Höschgasse",47.357994,8.554207
+8591363,"Zürich, Siemens",47.378464,8.49402
+8591832,"Pfaffhausen, Müseren",47.362698,8.617547
+8576207,"Küsnacht ZH, Goldbacherstrasse",47.329227,8.580465
+8590653,"Horgen, Käpfnach",47.254463,8.615868
+8502559,"Waldegg, Birmensdorferstrasse",47.3683,8.463469
+8590693,"Kloten, Breitistrasse/Bahnhof",47.447956,8.584139
+8591028,"Zollikerberg, Station",47.346035,8.602168
+8576260,"Buchs-Dällikon, Bahnhof",47.45334,8.437327
+8587965,"Erlenbach ZH, Bahnhof",47.305817,8.591245
+8591396,"Zürich, Tobelhof",47.383083,8.585999
+8595723,"Herrliberg-Feldmeilen, Bhf Ost",47.282795,8.612022
+8590803,"Schlieren, Wagonsfabrik",47.398514,8.45418
+8591062,"Zürich Oerlikon, Bahnhof Nord",47.412407,8.543931
+8591105,"Zürich, Bürkliplatz",47.36654,8.540787
+8590576,"Dübendorf, Meiershofstrasse",47.3967,8.613604
+8587998,"Herrliberg, Gartenstrasse",47.285767,8.612579
+8587996,"Herrliberg, Forchstrasse",47.28703,8.621293
+8588009,"Herrliberg, Tennisplätze",47.290714,8.615768
+8502956,"Remetschwil, Dorf",47.407852,8.327014
+8587997,"Herrliberg, Freudacherstrasse",47.295437,8.613298
+8587975,"Erlenbach ZH, Pflugstein",47.296894,8.608672
+8575927,"Illnau, Bahnhof",47.408535,8.722974
+8591306,"Zürich, Quellenstrasse",47.38674,8.528749
+8503204,Horgen,47.261486,8.596913
+8591413,"Zürich, Vulkanstrasse",47.39435,8.484085
+8591433,"Zürich, Winkelriedstrasse",47.383194,8.548216
+8575948,"Kyburg, Ettenhusen",47.44896,8.737149
+8591330,"Zürich, Saatlenstrasse",47.41081,8.562867
+8576244,"Regensdorf, Obstgarten",47.429077,8.469254
+8590842,"Urdorf, Neumattstrasse",47.38735,8.423152
+8591312,"Zürich, Rebbergsteig",47.396904,8.514969
+8595080,"Dietlikon, Riedenerstrasse",47.42263,8.614142
+8576263,"Zürich, Hungerbergstrasse",47.421093,8.50153
+8591108,"Zürich, Chaletweg",47.413372,8.5312195
+8503351,"Bisikon, Dorf",47.41252,8.695414
+8590317,"Würenlos, Raiffeisenbank",47.44175,8.364546
+8591274,"Zürich, Micafil",47.393036,8.474518
+8591256,"Zürich, Leutschenbach",47.414642,8.551306
+8591052,"Zürich, Bäckeranlage",47.37867,8.523108
+8575930,Agasul,47.42518,8.744308
+8503068,Maiacher,47.328167,8.631067
+8591317,"Zürich, Rentenanstalt",47.363388,8.535037
+8590277,"Spreitenbach, Langäcker",47.423183,8.363109
+8590578,"Wallisellen, Neugut",47.40483,8.60427
+8590758,"Regensdorf, Querstrasse",47.44458,8.462067
+8595076,"Dietlikon, Klimmweg",47.430794,8.61753
+8575926,"Illnau, Chrummenacher",47.405422,8.719174
+8590748,"Opfikon, Neuwiesen",47.42804,8.574339
+8503659,Erlenbach ZH (See),47.30303,8.589305
+8502248,Bremgarten Obertor,47.35057,8.34375
+8503202,Thalwil,47.29598,8.564772
+8590318,"Zürich, Farbhof",47.391132,8.479171
+8587654,"Glattbrugg, Glatthof",47.43451,8.567628
+8591348,"Zürich, Schützenhaus Höngg",47.409733,8.497047
+8591002,"Winterthur, Steig",47.475212,8.701243
+8576272,"Dällikon, Dorf",47.439735,8.439303
+8591830,"Glattpark, Glattpark",47.42038,8.556767
+8591158,"Zürich, Giblenstrasse",47.41073,8.485953
+8591189,"Zürich, Heubeeriweg",47.381657,8.564619
+8503057,Uetliberg,47.352074,8.487553
+8587982,"Meilen, Zentrum Feldmeilen",47.278645,8.6159935
+8572647,"Rottenschwil, Seematten",47.316326,8.36442
+8503567,"Uster, Spital",47.35385,8.723495
+8591059,"Zürich Enge, Bahnhof/Bederstr.",47.364555,8.530456
+8502268,Zufikon Belvédère,47.357674,8.359282
+8591019,"Winterthur, Ziegeleiweg",47.47963,8.697462
+8503088,Zürich HB SZU,47.377426,8.539169
+8503527,Buchs-Dällikon,47.453407,8.435603
+8588020,"Meilen, Charrhalten",47.277027,8.6635685
+8590634,"Glattpark, Lindbergh-Allee",47.424313,8.5626335
+8576099,"Uster, Turicum",47.348106,8.695045
+8503090,Zürich Selnau,47.37224,8.531722
+8580433,"Kloten, Graswinkel",47.45094,8.596482
+8502223,Hedingen,47.298782,8.44597
+8576289,"Regensberg, Dorf",47.48287,8.436268
+8503016,Zürich Flughafen,47.450386,8.5624
+8591056,"Zürich Altstetten, Bahnhof",47.391106,8.488379
+8595082,"Effretikon, Oberkempttal",47.43131,8.705439
+8591259,"Zürich, Lochergut",47.375416,8.51752
+8588048,"Uetikon am See, Oergelacher",47.268764,8.679504
+8591289,"Zürich, Neunbrunnen",47.416702,8.538208
+8590824,"Thalwil, Post",47.296814,8.56266
+8591150,"Zürich, Friesenberghalde",47.36112,8.502401
+8502570,"Rottenschwil, Hecht",47.319057,8.372092
+8573710,"Zürich Wiedikon, Bahnhof",47.37143,8.524185
+8591251,"Zürich, Lettenstrasse",47.39057,8.532738
+8502960,"Obfelden, Unterlunnern",47.2631,8.409839
+8576255,"Adlikon b. R., Sonnhalde",47.452003,8.462202
+8588032,"Meilen, Tobel",47.282265,8.618733
+8583870,"Birmensdorf ZH, Bahnhof Süd",47.357174,8.437004
+8590596,"Ebmatingen, Leeacherstrasse",47.35477,8.634391
+8591327,"Zürich, Rudolf-Brun-Brücke",47.373947,8.542933
+8591285,"Zürich, Neuaffoltern",47.411846,8.52503
+8591249,"Zürich, Lerchenhalde",47.411633,8.509875
+8591236,"Zürich, Altes Krematorium",47.377804,8.507873
+8591323,"Zürich, Rosengartenstrasse",47.39433,8.525461
+8572598,"Berikon, Mattenhof",47.344124,8.380069
+8590609,"Fällanden, Neuhus",47.36851,8.645135
+8502568,"Hermetschwil, alte Post",47.331005,8.345951
+8503671,Halbinsel Au,47.250572,8.648782
+8591176,"Zürich, Hardhof",47.39635,8.49747
+8591375,"Zürich, Sprecherstrasse",47.367493,8.552258
+8590826,"Thalwil, Rudishaldenstrasse",47.293346,8.559265
+8591376,"Zürich, Spyriplatz",47.382282,8.551979
+8503157,"Gutenswil, Unterdorf",47.384903,8.714494
+8594643,"Uetikon am See,Binzigerstrasse",47.268787,8.69067
+8591141,"Zürich, Friedhof Eichbühl",47.382877,8.474536
+8591398,"Zürich, Toni-Areal",47.39004,8.510585
+8590503,"Bassersdorf, Chlupfgasse",47.444626,8.624626
+8591170,"Zürich, Gutstrasse",47.371735,8.506651
+8590557,"Dübendorf, EMPA",47.40187,8.611439
+8590674,"Kilchberg ZH, Bendlikon",47.32209,8.550605
+8502708,"Besenbüren, Dorf",47.312054,8.344235
+8503198,"Esslingen, Bahnhof",47.287807,8.710092
+8594553,"Opfikon, Schwimmbad",47.432644,8.571554
+8588097,"Volketswil, Gries",47.38598,8.679316
+8590279,"Spreitenbach, Shopping Center",47.42045,8.368517
+8591332,"Zürich, Salersteig",47.406082,8.548476
+8587967,"Erlenbach ZH, Im Bindschädler",47.29558,8.603938
+8576169,"Nürensdorf, Oberwil",47.4641,8.639952
+8588008,"Herrliberg, Sportplatz",47.2927,8.611798
+8576265,"Regensdorf, Gemeindehaus",47.43422,8.469649
+8576281,"Adlikon b. R., Ziegelhütte",47.452633,8.466074
+8590558,"Dübendorf, Flugplatz",47.40238,8.627402
+8503672,Horgen (See),47.262352,8.597596
+8503201,Rüschlikon,47.307133,8.55516
+8590278,"Spreitenbach, Rotzenbühl",47.425804,8.360881
+8590531,"Dietikon, Stadthalle Ost",47.405506,8.390274
+8502979,"Oberwil-Lieli, Lieli Dorf",47.34129,8.396903
+8590477,"Adliswil, Moos",47.325138,8.531148
+8588031,"Meilen, Roren",47.282898,8.669919
+8588050,"Uster, Bordacker",47.351994,8.729334
+8576082,"Meilen, Beugen",47.26727,8.650713
+8572608,"Merenschwand, Allmend Gut",47.261375,8.387094
+8502566,"Aristau, Althäusern",47.294476,8.359901
+8590529,"Dietikon, Sommerau",47.40279,8.405348
+8590776,"Rüschlikon, Langhaldenstrasse",47.306072,8.551108
+8572599,"Berikon, Kreisschule",47.356285,8.366289
+8591103,"Zürich, Buhnstrasse",47.422253,8.538945
+8591294,"Zürich, Oerlikerhus",47.417587,8.554207
+8590759,"Regensdorf, Strassenverkehrs.",47.439713,8.46168
+8588049,"Uetikon am See, Rundi",47.27049,8.682235
+8587983,"Meilen, Schulhaus Feld",47.276512,8.622955
+8575943,"Grafstal, Oberdorf",47.443474,8.697839
+8503785,"Uster, Schlyffi",47.345726,8.6973715
+8590615,"Geroldswil, Grindlen",47.41812,8.415328
+8576211,"Küsnacht ZH, Schübel",47.321945,8.589852
+8590709,"Langnau am Albis, Unterrengg",47.28099,8.537472
+8591098,"Zürich, Brunau/Mutschellenstr.",47.35515,8.527141
+8590650,"Horgen, Altersheim/Tödistrasse",47.261837,8.584633
+8503052,Zürich Friesenberg,47.3648,8.5075035
+8594338,"Brüttisellen, Neuwisen",47.416103,8.634553
+8503661,Meilen (See),47.26755,8.640328
+8590541,"Dietlikon, Dornenstrasse",47.416584,8.616892
+8503378,"Tagelswangen, Dorf",47.430405,8.671923
+8576196,"Zürich, Kreuzstrasse",47.363186,8.549796
+8576243,"Regensdorf, Lettenhau",47.42579,8.471957
+8502884,"Obfelden, Toussen",47.264534,8.431129
+8503254,"Uster, Niederuster",47.34454,8.702178
+8590643,"Herrliberg, Oberdorfweg",47.28697,8.616506
+8530696,Mönchaltorf (See),47.32598,8.699923
+8591258,"Zürich, Lindenplatz",47.387817,8.486115
+8575942,"Winterberg ZH, Wältiwis",47.45467,8.696267
+8503263,Sulzbach,47.328194,8.745109
+8591084,"Zürich, Binz Center",47.3619,8.511052
+8591253,"Zürich, Letzipark",47.387775,8.499212
+8576286,"Dielsdorf, Spitalstrasse",47.481487,8.450659
+8591418,"Zürich, Waidhof",47.423862,8.523045
+8576083,"Meilen, Obermeilen",47.264843,8.654737
+8591284,"Zürich, Neeserweg",47.39059,8.474725
+8506960,"Brütten, Zentrum",47.47204,8.676486
+8595511,"Dietikon, Heimstrasse",47.40854,8.405869
+8576152,"Kloten, Kirchgasse",47.45278,8.584858
+8591444,"Zürich, Zürichbergstrasse",47.37873,8.564107
+8591194,"Zürich, Hirzenbach",47.40325,8.591164
+8557034,"Niederhasli, Nassenwil",47.465614,8.471445
+8590563,"Dübendorf, Grüzenstrasse",47.39129,8.617161
+8503066,Zumikon,47.331688,8.623809
+8591891,"Spreitenbach, Altersheim",47.41887,8.368499
+8591341,"Zürich, Schmiede Wiedikon",47.37015,8.519263
+8591441,"Zürich, Zielweg",47.35882,8.497586
+8576129,"Volketswil, Wallberg",47.389465,8.687068
+8575939,"Lindau, Rigacher",47.440205,8.67751
+8590239,"Killwangen, Bahnhof",47.432663,8.354458
+8590815,"Thalwil, Böni",47.284855,8.565284
+8503007,Zürich Seebach,47.41875,8.544659
+8591824,"Zürich, Binz",47.362965,8.518319
+8591264,"Zürich, Luegisland",47.40601,8.58139
+8502950,"Birmensdorf ZH, Zentrum",47.353935,8.437175
+8576158,"Bassersdorf, Talgüetli",47.445103,8.620485
+8583890,"Affoltern a.A., Moosbach",47.272743,8.43986
+8576147,"Pfungen, Bahnhof",47.51612,8.646761
+8590682,"Kilchberg ZH, Mythenstrasse",47.32636,8.540669
+8591367,"Zürich, Sihlpost/HB",47.376095,8.534202
+8591216,"Zürich, Jugendherberge",47.348003,8.52821
+8591389,"Zürich, Susenbergstrasse",47.378536,8.568006
+8591411,"Zürich, Vogelsangstrasse",47.38354,8.549069
+8590315,"Würenlos, Flüefeld",47.452877,8.3502445
+8591432,"Zürich, Wiesliacher",47.355213,8.596806
+8573723,"Oberlunkhofen, Dorfplatz",47.311428,8.390445
+8594307,"Würenlos, Lärchenweg",47.43849,8.364385
+8588984,"Horgen, Gehren",47.251865,8.601621
+8588740,"Kloten, Neubrunnenstrasse",47.444878,8.57875
+8590472,"Adliswil, Grüt",47.322437,8.528982
+8503020,Zürich Hardbrücke,47.385197,8.517125
+8591079,"Zürich, Bezirksgebäude",47.37417,8.52556
+8591319,"Zürich, Riedgraben",47.4108,8.558834
+8576176,"Brütten, Harossen",47.471466,8.682496
+8580729,"Berikon, Kesslernmatt",47.36458,8.366082
+8572643,"Bremgarten AG, West",47.345463,8.337426
+8579969,"Kloten, Chanzler",47.46709,8.582028
+8591149,"Zürich, Friesenberg",47.36429,8.5079975
+8591287,"Zürich, Neumarkt",47.372776,8.547353
+8591060,"Zürich Hardbrücke, Bahnhof",47.3852,8.517107
+8503506,Killwangen-Spreitenbach,47.433327,8.354216
+8590548,"Dübendorf, Bahnhof Nord",47.400738,8.624258
+8581546,"Uster, Nossikon",47.340126,8.729549
+8590642,"Herrliberg, Kirche Wetzwil",47.29657,8.625462
+8576277,"Buchs ZH, Industrie",47.449482,8.438325
+8591299,"Zürich, Paradeplatz",47.36973,8.538918
+8590461,"Adlikon b. R., Pächterried",47.445896,8.470044
+8590796,"Schlieren, Nassacker",47.39485,8.441738
+8575976,"Uster, Florastrasse",47.346546,8.726397
+8594310,"Würenlos, Steigass",47.435898,8.362668
+8590798,"Schlieren, Goldschlägistrasse",47.400406,8.439223
+8590883,"Wallisellen, Bützacker",47.421585,8.6003895
+8572626,"Besenbüren, Schulhaus",47.31474,8.342807
+8591039,"Zürich, Alte Trotte",47.397594,8.507657
+8591390,"Zürich, Talwiesenstrasse",47.369946,8.509651
+8573711,"Zürich, Sädlenweg",47.367756,8.48748
+8582529,"Bremgarten AG, Zufikerstrasse",47.35226,8.350065
+8503200,Kilchberg ZH,47.32443,8.5480175
+8590755,"Regensdorf, Moosächer",47.43984,8.456722
+8579839,"Hauptikon, Dorf",47.230297,8.49544
+8591244,"Zürich, Langmauerstrasse",47.39354,8.544784
+8503147,Stettbach,47.397213,8.596141
+8581538,"Uster, Seeweg",47.346138,8.6965275
+8503094,Zürich Leimbach,47.333046,8.518562
+8576250,"Watt, Schulhaus",47.443913,8.4780035
+8572559,"Bellikon, Abzw. Hausen",47.394707,8.339142
+8591163,"Zürich, Goldackerweg",47.37189,8.487929
+8591266,"Zürich, Maienweg",47.40785,8.526386
+8575977,"Uster, Oberuster",47.345238,8.730978
+8588205,"Erlenbach ZH, Allmend",47.306305,8.605339
+8573181,"Mettmenstetten, Bahnhof",47.243637,8.457656
+8576140,"Volketswil, In der Au",47.38956,8.688757
+8594186,"Wallisellen, Haldenstrasse",47.41546,8.596887
+8590613,"Forch, Bahnhof",47.325745,8.649564
+8590943,"Winterthur, Freizeitanlage",47.477703,8.699312
+8591394,"Zürich, Titlisstrasse",47.37097,8.564951
+8587977,"Erlenbach ZH, Rebstrasse",47.29912,8.602186
+8590587,"Dübendorf, Sonnenberg",47.393055,8.633367
+8590204,"Bergdietikon, Rietwies",47.39321,8.390714
+8590913,"Weiningen ZH, Lindenplatz",47.419556,8.433941
+8590722,"Neuhaus bei Hinteregg, Station",47.312775,8.673782
+8503610,"Zürich, Triemli",47.36815,8.495377
+8575920,"Effretikon, Müselacher",47.429047,8.696599
+8590989,"Winterthur, Rosenau",47.486694,8.708511
+8502555,"Rickenbach AG, Zürichstrasse",47.263638,8.395708
+8590768,"Rümlang, Riedmattstrasse",47.46149,8.526998
+8590616,"Geroldswil, Schweizäcker",47.42288,8.404377
+8576195,"Zürich, Opernhaus",47.365414,8.547649
+8591374,"Zürich, Sportweg",47.391624,8.50586
+8591269,"Zürich, Manesseplatz",47.365444,8.521634
+8590690,"Kilchberg ZH, Schwelle",47.32168,8.545233
+8572595,"Birmensdorf ZH, Altenberg",47.347126,8.420565
+8591235,"Zürich, Krematorium Nordheim",47.405365,8.528246
+8591260,"Zürich, Loogarten",47.389427,8.472326
+8591903,"Zollikerberg, Spital",47.34835,8.596042
+8572569,"Fischbach-Göslikon, Sternen",47.366753,8.313621
+8530473,"Zürich, Rigiblick",47.38733,8.553417
+8576172,"Breite b. N'dorf,Grünenwaldstr",47.461926,8.661286
+8573244,"Glattbrugg, Unterriet",47.437634,8.561825
+8502495,"Zürich Wollishofen, Bahnhof",47.348125,8.533321
+8591115,"Zürich, Drusbergstrasse",47.360344,8.578839
+8590897,"Wallisellen, Spitzacker",47.410976,8.605591
+8590895,"Wallisellen, Rosenberg",47.41235,8.5978565
+8503205,Au ZH,47.246822,8.643724
+8530822,Zürich Limmatquai,47.373016,8.542637
+8576248,"Watt, Geerenweg",47.439003,8.47724
+8575980,"Uster, Neufuhr",47.334137,8.74067
+8588053,"Uster, Haberweid",47.361877,8.713506
+8590688,"Kilchberg ZH, Schoorenstrasse",47.317307,8.549491
+8588022,"Meilen, Grüt",47.271355,8.670566
+8591273,"Zürich, Messe/Hallenstadion",47.41096,8.550093
+8503105,Uetikon,47.25903,8.678785
+8587968,"Erlenbach ZH, Chapf",47.307877,8.609032
+8576135,"Effretikon, Moosburg",47.42098,8.691812
+8576224,"Zumikon, Gössikon",47.33213,8.614646
+8503154,"Volketswil, Volkiland Chliriet",47.381905,8.667557
+8503350,"Kindhausen ZH, Geeren",47.408283,8.683637
+8503156,"Volketswil, Hegnau",47.38839,8.676234
+8591379,"Zürich, Stampfenbachplatz",47.380295,8.542781
+8576087,"Männedorf, Büelen",47.262486,8.687086
+8581540,"Uster, Wildsbergstrasse",47.351223,8.699644
+8590845,"Urdorf, Rainweg",47.389404,8.425335
+8579190,"Horgen, Plattenhof",47.265385,8.588218
+8591230,"Zürich, Kirche Fluntern",47.3764,8.559391
+8591219,"Zürich, Kanonengasse",47.378468,8.530303
+8588044,"Uetikon am See, Bergheim",47.272305,8.684867
+8590570,"Dübendorf, Kirche Wil",47.389336,8.618203
+8590523,"Dietikon, Pestalozzi",47.414097,8.399769
+8575909,"Effretikon, Vogelbuckstrasse",47.43463,8.6833315
+8591097,"Zürich, Bristenstrasse",47.39008,8.487059
+8587799,"Kloten Balsberg, Bahnhof",47.441612,8.568607
+8591268,"Zürich, Manegg",47.336967,8.5203495
+8590507,"Brüttisellen, Gsellhof",47.421707,8.629665
+8591857,"Uster, Loren-Allee",47.35822,8.709607
+8576084,"Meilen, Dollikon",47.264088,8.662796
+8591392,"Zürich, Thujastrasse",47.350185,8.527806
+8591070,"Zürich, Baslerstrasse",47.388767,8.490149
+8576185,"Zollikon, Gemeindehaus",47.34075,8.5759735
+8591133,"Zürich, Flühgasse",47.35046,8.569479
+8503896,"Horgenberg, Moorschwand",47.252705,8.586537
+8503087,Zürich Saalsporthalle,47.357796,8.521967
+8503008,Zürich Affoltern,47.42091,8.508582
+8590628,"Glattbrugg, Oberhusen",47.427013,8.569703
+8590506,"Brütten, Zelgli",47.47142,8.673872
+8591387,"Zürich, Sukkulentensammlung",47.354927,8.534301
+8591405,"Zürich, Uetlihof",47.356735,8.513963
+8576187,"Zollikon, Allmend",47.342976,8.583097
+8590846,"Urdorf, Schlierenstrasse",47.391163,8.423152
+8590679,"Kilchberg ZH, Spital",47.32171,8.535378
+8591040,"Zürich, Altenhofstrasse",47.355305,8.561412
+8502571,"Rottenschwil, Kapelle",47.314144,8.362139
+8590785,"Scheuren, Station",47.32272,8.6591215
+8590268,"Spreitenbach, ASP",47.41421,8.379521
+8503128,Dübendorf,47.40008,8.623423
+8572561,"Bellikon, Rehaklinik",47.388535,8.344037
+8576204,"Zollikon, Beugi",47.33648,8.575084
+8590819,"Thalwil, Mettli",47.282185,8.573
+8588045,"Uetikon am See, Talstrasse",47.266552,8.684409
+8590553,"Dübendorf, Chriesmatt",47.405468,8.625193
+8590742,"Opfikon, Bahnhof",47.4296,8.561654
+8590201,"Bergdietikon, Bergli",47.391125,8.389573
+8503374,"Grafstal, Unterdorf",47.44518,8.701253
+8590577,"Dübendorf, Memphis",47.399925,8.616317
+8573178,"Affoltern a.A., Bahnhof",47.275814,8.446607
+8575921,"Effretikon, Lindenwiese",47.42602,8.699483
+8591290,"Zürich, Nordheimstrasse",47.40354,8.530528
+8503682,Küsnacht ZH Heslibach,47.30823,8.584085
+8573556,"Horgen, Ebnetstrasse",47.252747,8.5967245
+8573205,"Zürich Flughafen, Bahnhof",47.45016,8.563747
+8576199,"Zürich, Fröhlichstrasse",47.35517,8.556902
+8591182,"Zürich, Hegianwandweg",47.356644,8.51001
+8591279,"Zürich, Morgental",47.34395,8.530142
+8591198,"Zürich, Hölderlinsteig",47.367,8.565041
+8588002,"Herrliberg, Holzwies",47.293407,8.608322
+8591380,"Zürich, Staudenbühl",47.420082,8.535388
+8576269,"Regensdorf, Dreispitz",47.43836,8.464726
+8576164,"Zufikon, Bachhalde",47.350246,8.355922
+8590686,"Kilchberg ZH, Schlimbergstr.",47.32477,8.543005
+8573167,"Thalwil, Zentrum",47.294918,8.564466
+8503060,Esslingen,47.287857,8.709687
+8575957,"Uster, Talacker",47.343315,8.716084
+8576085,"Meilen, Weid",47.266098,8.66876
+8590847,"Urdorf, Sonne",47.38126,8.422532
+8590526,"Dietikon, Schönenwerd",47.397175,8.424662
+8591116,"Zürich, Dunkelhölzli",47.388885,8.470053
+8591161,"Zürich, Glaubtenstrasse Süd",47.41366,8.518688
+8581548,"Uster, Poststrasse",47.349117,8.717
+8591109,"Zürich, Chinagarten",47.354515,8.55295
+8588030,"Meilen, Rebbergstrasse",47.27841,8.619173
+8503655,Zollikon (See),47.338684,8.56752
+8576264,"Regensdorf, Chrüzächer",47.427753,8.473242
+8502575,"Widen, Dorf",47.367573,8.363594
+8590957,"Winterthur, Hedy Hahnloser",47.484364,8.694946
+8591027,"Zollikerberg, Sennhof",47.34763,8.615562
+8590580,"Dübendorf, Post",47.396168,8.61691
+8590249,"Neuenhof, Posthorn",47.446552,8.330922
+8502508,"Spreitenbach, Raiacker",47.416393,8.376179
+8576245,"Regensdorf, Zentrum",47.43146,8.4662895
+8591324,"Zürich, Röslistrasse",47.38866,8.540499
+8503126,Nänikon-Greifensee,47.36936,8.686413
+8590504,"Benglen, Gerlisbrunnen",47.360924,8.6327915
+8590890,"Wallisellen, Ifang",47.410122,8.604989
+8591153,"Zürich, Fronwald",47.421963,8.510046
+8587018,Kindhausen AG,47.394176,8.375973
+8590566,"Dübendorf, Hoffnung",47.396004,8.599958
+8590482,"Adliswil, Schulhaus Kopfholz",47.308796,8.534445
+8590245,"Neuenhof, Kirchfeld",47.443413,8.334255
+8590762,"Rümlang, Bäuler",47.435543,8.557908
+8590513,"Dietikon, Dörfli",47.40041,8.406623
+8587858,"Volketswil, Giessen",47.38888,8.696302
+8575924,"Illnau, Steinacher",47.411842,8.713748
+8590584,"Dübendorf, Schossacher",47.39489,8.64023
+8591410,"Zürich, Verenastrasse",47.340824,8.52538
+8576219,"Küsnacht ZH, Himmelistrasse",47.31384,8.592224
+8590589,"Dübendorf, Stadthaus",47.39689,8.620027
+8590924,"Winterthur, Bolrebenweg",47.48112,8.699267
+8594250,"Binz bei Maur, Bautacher",47.35836,8.630034
+8587652,"Zürich, Altried",47.40563,8.591002
+8587976,"Erlenbach ZH, Rankstrasse",47.30763,8.597326
+8590601,"Egg, Station",47.301323,8.689673
+8581544,"Uster, Bildungszentrum",47.347515,8.709607
+8576223,"Küsnacht ZH, Bahnhof",47.319145,8.58024
+8590726,"Oberengstringen, Lanzrain",47.407337,8.467951
+8591206,"Zürich, Hürstholz",47.416885,8.522865
+8590889,"Wallisellen, Herti",47.416496,8.579073
+8590639,"Greifensee, Tumigerstrasse",47.366264,8.679756
+8580728,"Widen, Burkertsmatt",47.36571,8.365237
+8576174,"Brütten, Hofacher",47.47097,8.670593
+8502881,"Künten, Bodenacher/Breiti",47.391193,8.328514
+8587497,"Esslingen, Loogarten",47.290894,8.713191
+8591421,"Zürich, Waldhaus Dolder",47.37324,8.568544
+8587994,"Herrliberg, Bergstrasse",47.294365,8.614341
+8590894,"Wallisellen, Riedenerstrasse",47.411007,8.601611
+8590754,"Regensdorf, Altersheim",47.434494,8.467322
+8588005,"Herrliberg, Pfarrgasse",47.287094,8.608906
+8503075,Waltikon,47.33679,8.617018
+8595406,"Thalwil, Sonnenberg",47.293755,8.5563
+8591187,"Zürich, Hertensteinstrasse",47.42288,8.54349
+8590714,"Maur, Kirche",47.33785,8.674006
+8591071,"Zürich, Beckenhof",47.384083,8.540445
+8591373,"Zürich, Sonneggstrasse",47.382843,8.543688
+8591384,"Zürich, Stockerstrasse",47.36787,8.535423
+8591265,"Zürich, Letzibach",47.38908,8.494694
+8576183,"Zollikon, Seestrasse",47.342796,8.567323
+8503879,"Widen, Imbismatt",47.37244,8.356524
+8588034,"Meilen, Zur Au",47.27327,8.661807
+8590784,"Rüschlikon, Weidstrasse",47.30571,8.55294
+8590752,"Pfaffhausen, Pfaffenstein",47.368557,8.628561
+8590837,"Urdorf, Feldegg",47.392025,8.427913
+8590881,"Wallisellen, Belair",47.41395,8.585235
+8591391,"Zürich, Technopark",47.389057,8.515355
+8591302,"Zürich, Pflegezentr. Käferberg",47.39966,8.5177
+8590678,"Kilchberg ZH, Kirche",47.317776,8.541514
+8590746,"Opfikon, Grätzli",47.424923,8.581372
+8583214,"Birmensdorf ZH, Ristet",47.365723,8.429414
+8576218,"Küsnacht ZH, Bergstrasse",47.31442,8.589708
+8580840,"Staffeln AG, Schulhaus",47.33034,8.341315
+8503097,Langnau-Gattikon,47.287308,8.543832
+8591122,"Zürich, ETH Hönggerberg",47.40868,8.50771
+8573504,"Uster, Bahnhof",47.350876,8.717602
+8590910,"Weiningen ZH, Aegelsee",47.415703,8.444559
+8503899,"Horgen, Waldegg",47.245132,8.608268
+8583560,"Oberrohrdorf, Im Feld",47.415287,8.318858
+8588028,"Meilen, Parkresidenz",47.2701,8.638586
+8503010,Zürich Enge,47.364098,8.530824
+8590476,"Adliswil, Ahornweg",47.31879,8.53439
+8588315,"Bassersdorf, Grindel",47.44652,8.608412
+8590516,"Dietikon, Hätschen",47.402065,8.39384
+8595078,"Dietlikon, Lindenstrasse",47.430798,8.619425
+8573721,"Oberlunkhofen, Waldegg",47.313427,8.398817
+8590791,"Schlieren, Gasometerbrücke",47.397606,8.460603
+8591282,"Zürich, Museum für Gestaltung",47.382122,8.534939
+8594239,"Zürich, Schiffbau",47.38803,8.519865
+8575944,"Kemptthal, Bahnhof",47.453022,8.705546
+8590751,"Pfaffhausen, Feldhof",47.364067,8.62009
+8590218,"Dietikon, Gjuchstrasse",47.407963,8.3932295
+8580536,"Opfikon, Schulstrasse",47.43084,8.573719
+8591045,"Zürich, Appenzellerstrasse",47.39891,8.509525
+8588017,"Meilen, Bezibüel/Chilchbüel",47.279167,8.663236
+8591435,"Zürich, Winzerstrasse",47.403767,8.486376
+8590545,"Dietlikon, Industriestrasse",47.41425,8.621949
+8590766,"Rümlang, Oberdorf",47.451965,8.530285
+8588745,"Wallisellen, Steinacker",47.418808,8.581947
+8590316,"Würenlos, Post",47.44245,8.362615
+8576194,"Zürich, Elektrowatt",47.357388,8.550416
+8591275,"Zürich, Michelstrasse",47.406326,8.495602
+8587973,"Erlenbach ZH, Im Vogelsang",47.305782,8.596635
+8587020,"Dietikon, Bahnhof",47.405834,8.404521
+8587349,"Zürich, Bahnhofquai/HB",47.377563,8.5417385
+8591110,"Zürich, Löwenbräu",47.3884,8.5260725
+8576222,"Küsnacht ZH, Allmend",47.31581,8.597237
+8572646,"Unterlunkhofen, Gemeindehaus",47.32063,8.380158
+8591197,"Zürich, Hohenklingensteig",47.40135,8.4902115
+8591893,"Dietikon, Gyrhalden",47.40063,8.391415
+8591342,"Zürich, Schönauring",47.426132,8.536348
+8530643,Horgen Autoquai,47.259228,8.604639
+8588313,Baltenswil,47.430233,8.641721
+8591243,"Zürich, Langgrütstrasse",47.37374,8.501063
+8590488,"Aesch bei Maur, Zollingerheim",47.326683,8.656345
+8557033,"Oberhasli, Industrie",47.459267,8.490014
+8503004,Zürich Tiefenbrunnen,47.350124,8.561385
+8590525,"Dietikon, Schäflibach",47.400005,8.411078
+8590647,"Herrliberg-Feldmeilen,Bhf West",47.28252,8.61178
+8594236,"Rümlang, Hörnlistrasse",47.445686,8.530663
+8591261,"Zürich, Loorenstrasse",47.359863,8.594523
+8591169,"Zürich, Güterbahnhof",47.38031,8.519973
+8591195,"Zürich, Höfliweg",47.36758,8.5109625
+8590636,"Greifensee, Im Langacher",47.364525,8.685137
+8588735,"Grafstal, Engelacher",47.442257,8.70039
+8502773,"Oberrohrdorf, Post",47.41872,8.31681
+8590669,"Itschnach, Tägermoos",47.325867,8.594011
+8573233,"Kloten, Kaserne Ost",47.457397,8.580214
+8573165,"Thalwil, Schützenhaus",47.287716,8.562211
+8591335,"Zürich, Schaffhauserplatz",47.39163,8.538712
+8503101,Küsnacht ZH,47.319157,8.580636
+8591137,"Zürich, Freiestrasse",47.3628,8.562975
+8503051,Zürich Binz,47.362766,8.518292
+8587347,"Zürich, Rote Fabrik",47.34273,8.536016
+8502560,"Berikon, Kirche",47.35105,8.371418
+8503304,Kemptthal,47.45284,8.705583
+8596113,"Dübendorf, Hochbord Süd",47.399006,8.600462
+8588553,"Zürich Flughafen, Fracht",47.45216,8.571733
+8590805,"Schlieren, Zentrum/Bahnhof",47.39782,8.448431
+8591308,"Zürich, Räffelstrasse",47.362747,8.514664
+8590811,"Thalwil, Aegertli",47.296474,8.559687
+8590662,"Horgen, Waldhof",47.232944,8.620431
+8590725,"Oberengstringen, Eggbühl",47.405525,8.474087
+8591164,"Zürich, Goldauerstrasse",47.386204,8.550156
+8590848,"Urdorf, Spitzacker",47.384342,8.421823
+8591131,"Zürich, Fischerweg",47.39357,8.512121
+8593250,"Horgen, Hüttenstrasse",47.23892,8.616963
+8591828,"Ebmatingen, Dorf",47.35139,8.641003
+8573214,"Kloten, Balsberg Hardacher",47.439827,8.572039
+8580846,"Bremgarten AG, Kaserne",47.35781,8.332197
+8588015,"Meilen, Alte Sonne",47.266567,8.656589
+8576271,"Dällikon, Seitenacker",47.438778,8.444703
+8591077,"Zürich, Besenrainstrasse",47.34548,8.52786
+8583756,"Mettmenstetten, Zentrum",47.243687,8.46355
+8573560,"Hirzel, Neuhaus",47.232014,8.599078
+8502273,Bremgarten,47.35147,8.346561
+8503855,"Horgen, Bahnhof",47.261612,8.595674
+8588078,"Zürich, Central",47.376842,8.54394
+8591347,"Zürich, Schürgistrasse",47.408836,8.579594
+8588051,"Uster, Dammstrasse",47.35345,8.715679
+8591138,"Zürich, Freihofstrasse",47.383232,8.499374
+8503081,Felsenegg,47.310143,8.507414
+8591362,"Zürich, Seilbahn Rigiblick",47.385914,8.548368
+8502751,"Fischbach-Göslikon, Zentrum",47.370846,8.308257
+8595708,"Spreitenbach, Glattler",47.42082,8.363001
+8591314,"Zürich, Regensbergbrücke",47.408825,8.539277
+8503446,Zürich Landesmuseum (See),47.379047,8.541577
+8503072,Neuhaus bei Hinteregg,47.31278,8.674033
+8591443,"Zürich, Zoo/Forrenweid",47.3805,8.578085
+8503174,"Esslingen, Oberesslingen",47.284214,8.71311
+8590718,"Meilen, Schulhaus Obermeilen",47.26789,8.656103
+8591107,"Zürich, Zentrum Witikon",47.358322,8.586592
+8590614,"Geroldswil, Dorfstrasse",47.41984,8.413136
+8590463,"Adliswil, Badstrasse",47.313595,8.533807
+8573553,"Horgen, Stocker",47.26146,8.589044
+8590581,"Dübendorf, Raubbühl",47.391556,8.634876
+8576240,"Zürich, Meierhofplatz",47.40201,8.499374
+8503053,Zürich Schweighof,47.364944,8.503533
+8590830,"Thalwil, Zehntenstrasse",47.289898,8.57052
+8576253,"Adlikon b. R., Dorf",47.448162,8.466469
+8587964,"Erlenbach ZH, Alterswohnheim",47.307293,8.594767
+8590745,"Opfikon, Fernsicht",47.42348,8.581965
+8588027,"Meilen, Ormis",47.270794,8.653022
+8588987,"Horgen, Schnegg",47.248478,8.60533
+8581346,"Oberwil-Lieli, Bündtenmättli",47.339596,8.38289
+8503001,Zürich Altstetten,47.391483,8.488963
+8580877,"Uster, Sonnenberg",47.350185,8.702618
+8590668,"Itschnach, Rebweg",47.32659,8.59809
+8591106,"Zürich, Butzenstrasse",47.34141,8.530313
+8591113,"Zürich, Dreispitz",47.410797,8.56717
+8503125,Uster,47.35037,8.718707
+8576258,"Buchs ZH, Linde",47.458458,8.440247
+8590299,"Wettingen, Kreuzkapelle",47.45905,8.342052
+8502897,"Stetten AG, Künterstrasse",47.40008,8.310027
+8576235,"Otelfingen, Bahnhof",47.45512,8.38828
+8575929,"Illnau, Horben",47.413124,8.744884
+8502778,"Obfelden, alte Post",47.26205,8.420322
+8591297,"Zürich, Orionstrasse",47.41672,8.566164
+8587971,"Erlenbach ZH, Im Loo",47.304916,8.593625
+8503150,"Volketswil, Dorf",47.389587,8.693222
+8594187,"Wallisellen, Friedhof",47.415264,8.593653
+8594261,"Dübendorf, Hochbord Nord",47.40139,8.601854
+8591033,"Zürich, Aargauerstrasse",47.392178,8.502491
+8576259,"Buchs ZH, Post",47.45666,8.437588
+8591112,"Zürich, Dorflinde",47.407402,8.549257
+8583482,"Obfelden, Bachstrasse",47.26321,8.424922
+8590772,"Rüschlikon, Belvoir",47.30704,8.5486555
+8576480,"Zufikon, Schulanlage",47.347477,8.358375
+8594252,"Kilchberg ZH, Breitloo",47.32619,8.539439
+8591366,"Zürich, Sihlcity Nord",47.360065,8.523026
+8576153,"Kloten, Rankstrasse",47.451187,8.592053
+8587993,"Herrliberg, Aryanastrasse",47.288437,8.618571
+8591351,"Zürich, Schweighof",47.364773,8.502698
+8588279,"Tagelswangen, Gerenhalde",47.431404,8.66797
+8590569,"Dübendorf, Kämmaten",47.38949,8.596653
+8591361,"Zürich, Seidelhof",47.391922,8.483726
+8503168,"Riedikon, Chis/Naturstation",47.326355,8.710092
+8590852,"Volketswil, Milandia",47.37827,8.67424
+8575919,"Effretikon, Zentrum",47.42768,8.686413
+8503525,Otelfingen Golfpark,47.455822,8.402114
+8591175,"Zürich, Hallenbad Oerlikon",47.410706,8.5558605
+8575958,"Uster, im Hölzli",47.33945,8.714359
+8591343,"Zürich, Schörlistrasse",47.405945,8.563873
+8503312,Oberglatt ZH,47.470203,8.510621
+8530646,Uster (See),47.343224,8.690113
+8590797,"Schlieren, Reitmen",47.39711,8.433384
+8582462,"Bremgarten AG, Zelgli",47.347557,8.348197
+8503500,Zürich Polyterrasse,47.376858,8.546401
+8591325,"Zürich, Roswiesen",47.402954,8.57698
+8590814,"Thalwil, Aubrigstrasse",47.288082,8.56982
+8590828,"Thalwil, Seehaldenstrasse",47.29777,8.554009
+8591181,"Zürich, Heerenwiesen",47.404716,8.5763235
+8591209,"Zürich, Im Hagacker",47.35927,8.50771
+8590661,"Horgen, Teufenbach",47.256218,8.605205
+8590716,"Maur, See",47.34007,8.678659
+8503302,Fehraltorf,47.385124,8.750292
+8502269,Erdmannlistein,47.34959,8.312758
+8591826,"Binz bei Maur, Gassacher",47.357094,8.627968
+8502270,Bergfrieden,47.39747,8.39896
+8576214,"Itschnach, Dorf",47.32779,8.602312
+8591364,"Zürich, Signaustrasse",47.363228,8.557621
+8590747,"Opfikon, Grossacker",47.42677,8.579091
+8590565,"Dübendorf, Heidenrietstrasse",47.394295,8.652007
+8590582,"Dübendorf, Ringstrasse",47.40015,8.607271
+8594190,"Wallisellen, Guggenbühlstrasse",47.41364,8.59695
+8503009,Zürich Wollishofen,47.347443,8.5336
+8591081,"Zürich Wollishofen,Bhf/Staubst",47.347034,8.532917
+8591400,"Zürich, Trichtisal",47.353912,8.601072
+8580437,"Kloten, Säntisstrasse",47.451565,8.591029
+8590771,"Rüschlikon, Bahnhof",47.30818,8.5535965
+8503165,"Oetwil am See, Gusch",47.27745,8.718482
+8590888,"Wallisellen, Hallenbad",47.417847,8.593454
+8590689,"Kilchberg ZH,Schulhaus Dorfstr",47.32176,8.547802
+8595711,"Rümlang, Chilestieg",47.44682,8.525542
+8573211,"Kloten, Zum Wilden Mann",47.453545,8.580195
+8591240,"Zürich, Lägernstrasse",47.395912,8.532181
+8591201,"Zürich, Hönggerberg",47.404934,8.504737
+8503062,Egg,47.3015,8.6896105
+8503063,Hinteregg,47.305733,8.684338
+8591234,"Zürich, Köschenrüti",47.429043,8.537112
+8576080,"Meilen, Bahnhof",47.26944,8.644883
+8502572,"Zürich, Goldbrunnenplatz",47.370293,8.513918
+8588317,"Bassersdorf, Bächli",47.438923,8.635738
+8591419,"Zürich, Waidspital",47.399166,8.521707
+8580435,"Kloten, Mühle",47.450108,8.591928
+8576206,"Küsnacht ZH, Bühlstrasse",47.331753,8.579657
+8587992,"Herrliberg, Alterssiedlung",47.287052,8.615068
+8590702,"Küsnacht ZH, Hallenbad",47.313564,8.5851
+8590675,"Kilchberg ZH, Gottlieb-Binder",47.322975,8.542834
+8590552,"Dübendorf, Breitibach",47.395966,8.608133
+8591159,"Zürich, Glattwiesen",47.401604,8.5817585
+8591381,"Zürich, Stauffacher",47.373425,8.529252
+8591172,"Zürich, Hagenholz",47.414406,8.555528
+8590644,"Herrliberg, Rain",47.292866,8.607109
+8591145,"Zürich, Friedhof Sihlfeld",47.37593,8.510891
+8591053,"Zürich, Bad Allenmoos",47.405895,8.5377865
+8588058,"Uster, Wageren",47.351902,8.727106
+8580432,"Kloten, Bramen",47.443913,8.578425
+8575978,"Uster, Linde",47.344563,8.733448
+8576139,"Volketswil, In der Höh",47.38525,8.668384
+8503657,Küsnacht ZH (See),47.318996,8.5783
+8573161,"Langnau-Gattikon, Bahnhof",47.287216,8.543697
+8591439,"Zürich, Wollishoferplatz",47.33844,8.530159
+8590544,"Dietlikon, Hörnligraben",47.41214,8.614547
+8591247,"Zürich, Lehenstrasse",47.39614,8.520719
+8587321,"Schöfflisdorf-Oberwen, Bahnhof",47.49813,8.411779
+8588013,"Meilen, Aebleten",47.269367,8.663496
+8591068,"Zürich, Bändliweg",47.396355,8.48501
+8590800,"Schlieren, Spital Limmattal",47.392616,8.429754
+8591144,"Zürich, Friedhof Schwandenholz",47.42135,8.537759
+8503598,"Arni AG, Dorf",47.318394,8.419711
+8579968,"Kloten, Egetswil",47.469555,8.584669
+8503189,"Riedikon, Dorf",47.332207,8.711331
+8590694,"Kloten, Buchhalden",47.444572,8.5954485
+8594182,"Horgen, Wannerstrasse",47.262947,8.590976
+8591310,"Zürich, Rautihalde",47.386173,8.474105
+8591357,"Zürich, Seerose",47.338913,8.5381365
+8590222,"Dietikon, Oetwilerstrasse",47.406246,8.397226
+8590704,"Küsnacht ZH, Reform. Kirche",47.316593,8.583905
+8503015,Zürich Wipkingen,47.39304,8.529378
+8590727,"Oberengstringen, Paradies",47.410484,8.458743
+8503054,Zürich Triemli,47.364994,8.495377
+8503309,Kloten Balsberg,47.442287,8.570719
+8576226,"Zumikon, Dorfzentrum",47.332977,8.622919
+8572601,"Zufikon, Algier",47.34174,8.354629
+8590606,"Fällanden, Gemeindehaus",47.371815,8.640167
+8591093,"Zürich, Kantonalbank",47.368168,8.539744
+8591386,"Zürich, Strickhof",47.393578,8.547515
+8575981,"Bertschikon b. G., Müselacher",47.322773,8.755978
+8591438,"Zürich, Buchzelgstrasse",47.35918,8.585244
+8587951,"Uetikon am See, Bahnhof",47.259216,8.67883
+8590591,"Dübendorf, Unterdorf",47.39867,8.618275
+8580298,"Mettmenstetten, Rossau",47.22609,8.483734
+8591162,"Zürich, Glockenacker",47.360977,8.599302
+8502277,Rudolfstetten,47.369503,8.381183
+8502275,Widen Heinrüti,47.361927,8.354871
+8575931,"Weisslingen, Brauiweiher",47.425343,8.751073
+8503099,Sihlau,47.30329,8.525165
+8591213,"Zürich, Im Wingert",47.40143,8.508833
+8588024,"Meilen, Halten",47.271328,8.657388
+8576249,"Watt, Dorf",47.442223,8.480743
+8583742,"Mettmenstetten, Schulhaus",47.2443,8.465095
+8590703,"Küsnacht ZH, Oberfeld",47.31314,8.588801
+8590521,"Dietikon, Oberdorf",47.401737,8.396374
+8591034,"Zürich, Albisgütli",47.351994,8.50771
+8590528,"Dietikon, Silbern",47.418198,8.392951
+8591173,"Zürich, Haldenbach",47.380295,8.548377
+8591291,"Zürich, Nordstrasse",47.38833,8.53616
+8590518,"Dietikon, Lätten",47.40218,8.385154
+8503102,Erlenbach ZH,47.305794,8.591523
+8590806,"Schwerzenbach ZH, Dorf",47.3805,8.651998
+8575925,"Illnau, Wingert",47.410557,8.71249
+8591143,"Zürich, Friedhof Hönggerberg",47.408936,8.494137
+8572564,"Busslingen, Hüsler",47.41001,8.314995
+8594254,"Kilchberg ZH, Obere Hornhalde",47.331566,8.538118
+8587974,"Erlenbach ZH,Kirchgemeindehaus",47.30279,8.59332
+8587979,"Erlenbach ZH, Schulhaus",47.302357,8.597901
+8591178,"Zürich, Hardturm",47.394165,8.504503
+8591340,"Zürich, Schlyfi",47.36259,8.574141
+8591080,"Zürich Wollishofen, Bhf/Werft",47.347588,8.534346
+8591142,"Zürich, Friedhof Enzenbühl",47.35097,8.5802765
+8503306,Dietlikon,47.4202,8.619272
+8596005,"Binz bei Maur, Twäracher",47.360893,8.623476
+8594644,"Uetikon am See, Forbüelstrasse",47.26727,8.687023
+8590571,"Dübendorf, Kreuzbühl",47.38884,8.621554
+8502225,Mettmenstetten,47.244072,8.457377
+8576193,"Zürich, Bellevue",47.367092,8.545116
+8591328,"Zürich, Rütihof",47.413452,8.477311
+8591296,"Zürich, Okenstrasse",47.388012,8.534139
+8590559,"Dübendorf, Gfenn",47.39307,8.64747
+8503315,Dielsdorf,47.48242,8.459444
+8502577,"Aristau, Dorf",47.286274,8.362049
+8503000,Zürich HB,47.378178,8.540212
+8591151,"Zürich, Friesenbergstrasse",47.362064,8.505096
+8591180,"Zürich, Hedwigsteig",47.360424,8.565032
+8590573,"Dübendorf, Kunsteisbahn",47.389217,8.628911
+8595712,"Rümlang, Hofwisenunterführung",47.452263,8.53687
+8578679,"Würenlos, Bettlen",47.446102,8.370798
+8590786,"Schlieren, Bahnhof",47.399433,8.448547
+8503098,Sihlwald,47.268295,8.557513
+8576130,"Volketswil, Huzlenstrasse",47.393173,8.6836815
+8503380,"Winterberg ZH, Dorf",47.456406,8.69306
+8596126,"Zürich, Bus Station",47.381065,8.537301
+8590680,"Kilchberg ZH, Kreuzstrasse",47.32506,8.54526
+8590940,"Winterthur, Finken-Rain",47.481964,8.696276
+8576197,"Zürich, Feldeggstrasse",47.360516,8.55206
+8573277,"Dielsdorf, Bahnhof",47.48293,8.458923
+8503681,Zürich Wollishofen (See),47.34547,8.536654
+8573559,"Horgenberg, Vorderklausen",47.240704,8.596743
+8587420,"Kloten, Bahnhof",47.448967,8.583888
+8590473,"Adliswil, Hofackerstrasse",47.315136,8.535765
+8594198,"Wallisellen, Glatt (Tram)",47.409294,8.598063
+8590879,"Waldburg, Station",47.34539,8.593302
+8530644,Meilen Autoquai,47.26798,8.638478
+8590276,"Spreitenbach, Interio",47.426975,8.364609
+8590574,"Dübendorf, Lindenbühl",47.39491,8.645745
+8591102,"Zürich, Buchholz",47.360928,8.588702
+8580879,"Uster, Stadthaus",47.3479,8.719093
+8595356,"Buchs ZH, Furttalstrasse",47.455296,8.437758
+8590612,"Fällanden, Zil",47.372246,8.636214
+8590313,"Würenlos, Bahnhof",47.446747,8.3588505
+8591127,"Zürich, Felsenrainstrasse",47.41679,8.545296
+8591377,"Zürich, Spyristeig",47.386253,8.556202
+8580912,"Zürich, Schaufelbergerstrasse",47.368904,8.501844
+8590505,"Binz bei Maur, Fridlimatt",47.35927,8.624618
+8590619,"Glanzenberg, Bahnhof",47.39871,8.419586
+8591134,"Zürich, Flurstrasse",47.381557,8.49199
+8590567,"Dübendorf, Högler",47.39178,8.6147175
+8590833,"Unterengstringen, Langacher",47.412235,8.4531555
+8588734,"Männedorf, Im Russer",47.26051,8.69058
+8588430,"Uetikon am See, Tramstrasse",47.26578,8.677358
+8591054,"Zürich Affoltern, Bahnhof",47.421185,8.507414
+8591193,"Zürich, Hirschwiesenstrasse",47.400272,8.543509
+8581545,"Uster, Jugendhaus",47.350048,8.712437
+8591292,"Zürich, Nürenbergstrasse",47.392258,8.533439
+8591088,"Zürich, Birchstrasse",47.413044,8.535854
+8576203,"Zollikon, Dufourplatz",47.340435,8.572614
+8588054,"Uster, Meieracher",47.360046,8.714593
+8590756,"Regensdorf, Feldblumenstrasse",47.43603,8.46443
+8594253,"Kilchberg ZH, Emilienheim",47.32921,8.538145
+8503141,Küsnacht Goldbach,47.32686,8.575965
+8590641,"Herrliberg, Busenhardstrasse",47.29096,8.610496
+8596006,"Schlieren, Meuchwis",47.400234,8.435037
+8590743,"Opfikon, Bubenholz",47.434498,8.571689
+8590905,"Wangen b D'dorf, Weidli",47.412457,8.639862
+8530648,Greifensee (See),47.364536,8.674923
+8587655,"Wallisellen, Bahnhof",47.412724,8.592539
+8591368,"Zürich, Sihlquai/HB",47.379875,8.537606
+8530812,"Zürich, Hegibachplatz",47.36169,8.560621
+8590705,"Küsnacht ZH, Zentrum",47.31828,8.581884
+8589128,"Volketswil, Chammwisen",47.38835,8.677384
+8575923,"Illnau, Kirche",47.4146,8.717395
+8588986,"Horgen, Reithy",47.250107,8.608187
+8506961,"Winterthur, Steigmühle",47.477375,8.702906
+8590886,"Wallisellen, Gemeindehaus",47.41637,8.591021
+8591046,"Zürich, Aspholz",47.424984,8.501027
+8590731,"Oberhasli, Moosacker",47.47062,8.499042
+8587348,"Zürich, Bahnhofplatz/HB",47.37724,8.53934
+8591065,"Stettbach, Bahnhof",47.397274,8.596131
+8590788,"Schlieren, Brunngasse",47.39649,8.448062
+8588016,"Meilen, Au",47.272316,8.667161
+8576220,"Küsnacht ZH, Hesligenstrasse",47.31577,8.593204
+8595717,"Adliswil, Grundstrasse",47.31295,8.530051
+8595706,"Effretikon, Weiherstrasse",47.433556,8.689889
+8590908,"Watt, Brünigstrasse",47.44613,8.48165
+8591233,"Zürich, Klusplatz",47.364037,8.566496
+8503188,"Mönchaltorf, Mönchhof",47.31152,8.721456
+8503499,Zürich Central (Polybahn),47.37654,8.544039
+8591417,"Zürich, Waidfussweg",47.395496,8.5184
+8590514,"Dietikon, Rapidplatz",47.410213,8.404997
+8590550,"Dübendorf, Bettlistrasse",47.39705,8.625614
+8591360,"Zürich, Segeten",47.35575,8.594308
+8572600,"Zufikon, Emaus",47.344646,8.351978
+8573722,"Oberlunkhofen, Oberdorf",47.312386,8.392762
+8517376,Dietikon Schöneggstrasse,47.401962,8.4009905
+8590645,"Herrliberg, Rebberg",47.288784,8.614736
+8590583,"Dübendorf, Ringwiesen",47.397533,8.604217
+8503578,"Birmensdorf ZH, Sternen/WSL",47.360096,8.456273
+8590275,"Spreitenbach, IKEA",47.422066,8.373574
+8581539,"Uster, Apothekerstrasse",47.346176,8.715069
+8590562,"Dübendorf, Glärnischstrasse",47.39624,8.629935
+8572602,"Oberlunkhofen, Haldenmatten",47.313366,8.388917
+8503074,Neue Forch,47.325813,8.63784
+8591177,"Zürich, Hardplatz",47.382343,8.514528
+8588429,"Uetikon am See, Brandrain",47.271633,8.686385
+8576278,"Regensdorf, Furtbächli",47.444492,8.466694
+8576186,"Zollikon, Höhestrasse",47.33985,8.581525
+8503065,Forch,47.325336,8.647973
+8503078,Waldburg,47.34547,8.593023
+8530813,"Zürich, Kreuzplatz",47.364876,8.554082
+8503056,Ringlikon,47.360294,8.477428
+8591200,"Zürich, Holzerhurd",47.4238,8.496616
+8503372,"Effretikon, Wattspitz",47.427097,8.694686
+8573163,"Gattikon, Gattikerhöhe",47.28546,8.555097
+8580301,"Zürich Flughafen, OPC",47.452652,8.56566
+8591241,"Zürich, Landiwiese",47.350983,8.534228
+8576788,"Uster, Burgreben",47.343887,8.71709
+8594255,"Zürich, Schanzackerstrasse",47.392025,8.547434
+8576155,"Kloten, Grubenstrasse",47.447685,8.603247
+8503364,"Mönchaltorf, Langenmatt",47.31545,8.72089
+8591152,"Zürich, Frohburg",47.404236,8.562615
+8591825,"Benglen, Bodenacher",47.36113,8.638613
+8503155,"Volketswil, Chrummacher",47.379707,8.683466
+8588000,"Herrliberg, Grüt",47.290184,8.605861
+8591118,"Zürich, Einfangstrasse",47.415703,8.51293
+8591304,"Zürich, Post Wollishofen",47.34447,8.532962
+8503064,Scheuren,47.322598,8.659553
+8590520,"Dietikon, Moosmatt",47.419445,8.393858
+8590730,"Oberhasli, Hasliberg",47.468735,8.503156
+8591430,"Zürich, Widmerstrasse",47.336777,8.53289
+8576237,"Otelfingen, Schule",47.4626,8.390121
+8590462,"Adlikon b. R., Leematten",47.452587,8.467062
+8588738,"Kloten, Härdlen",47.455715,8.589924
+8590270,"Spreitenbach, Brüel",47.41806,8.371957
+8590579,"Dübendorf, Neugut Süd",47.402843,8.60136
+8590532,"Dietikon, Staffelackerstrasse",47.4019,8.390813
+8594188,"Wallisellen, Schulhaus Bürgli",47.41553,8.599581
+8591442,"Zürich, Zoo",47.38157,8.571554
+8590610,"Fällanden, Schützenhaus",47.368626,8.632478
+8590736,"Oberrieden, Wattenbühlweg",47.273273,8.580159
+8590820,"Thalwil, Oeggisbüelplatz",47.284836,8.571589
+8579189,"Horgen, Scheller",47.26916,8.586924
+8595899,"Zürich, Glaubtenstrasse Nord",47.414745,8.5196495
+8576273,"Dänikon, Gemeindehaus",47.44588,8.406838
+8591196,"Zürich, Hofstrasse",47.373363,8.561556
+8590737,"Oetwil an der Limmat, Halde",47.425373,8.4001465
+8595707,"Nürensdorf, Zentrum Süd",47.44622,8.649456
+8573557,"Horgen, Fischenrüti",47.248096,8.5995455
+8530645,Maur (See),47.340282,8.679019
+8595081,"Dietlikon, Zentrum",47.42301,8.618248
+8590605,"Fällanden, Eggler",47.37159,8.634714
+8590607,"Fällanden, Industrie",47.37612,8.644353
+8503311,Rümlang,47.454067,8.532764
+8591242,"Zürich, Langensteinenstrasse",47.392494,8.549761
+8588023,"Meilen, Hallenbad",47.272305,8.64535
+8503675,Rüschlikon (See),47.309772,8.558385
+8590723,"Niederhasli, Bahnhof",47.478275,8.488541
+8503791,"Thalwil, Ebnet",47.28837,8.55719
+8502691,"Bremgarten AG, Fischbacherstr.",47.357285,8.322253
+8502567,"Rottenschwil, Abzw.",47.3082,8.357746
+8591248,"Zürich, Leimgrübelstrasse",47.428646,8.54367
+8591448,"Zürich, Zypressenstrasse",47.376694,8.513765
+8590729,"Oberhasli, Dorf",47.465317,8.500515
+8590203,"Bergdietikon, Dünni",47.3945,8.39313
+8503371,"Illnau, Löwen",47.416332,8.7174225
+8591280,"Zürich, Mötteliweg",47.413956,8.526459
+8580302,"Rottenschwil, Rebberg",47.31113,8.360387
+8591086,"Zürich, Birchdörfli",47.407536,8.5306
+8591043,"Zürich, Am Börtli",47.399628,8.507145
+8590555,"Dübendorf, Claridenstrasse",47.39488,8.628705
+8591350,"Zürich, Schwandenholz",47.42386,8.520682
+8588094,"Dänikon, Rotflue",47.447002,8.39711
+8590792,"Schlieren, Heimeliweg",47.39456,8.43748
+8590911,"Weiningen ZH, Ausserdorf",47.417683,8.439537
+8590832,"Unterengstringen, Eckstein",47.410484,8.449033
+8590794,"Schlieren, Kesslerstrasse",47.39638,8.438872
+8591208,"Zürich, Im Gut",47.373615,8.503363
+8503083,"Zürich, Römerhof",47.368088,8.56028
+8590651,"Horgen, Dorfgasse",47.2601,8.599015
+8503316,Steinmaur,47.489986,8.446858
+8576285,"Dielsdorf, Bezirksgebäude",47.48198,8.452688
+8588001,"Herrliberg, Harzerstrasse",47.286705,8.618024
+8503307,Bassersdorf,47.438572,8.626216
+8590621,"Glattbrugg, Frohbühlstrasse",47.428093,8.557361
+8580874,"Uster, Krämeracker",47.351738,8.705924
+8503089,Wildpark-Höfli,47.29654,8.535648
+8591250,"Zürich, Lerchenrain",47.41429,8.509489
+8591044,"Zürich, Am Suteracher",47.39094,8.469784
+8581674,"Horgenberg, Widenbach",47.234314,8.597964
+8573554,"Horgen Oberdorf, Bahnhof",47.258724,8.590194
+8590554,"Dübendorf, City Center",47.397,8.6164875
+8591184,"Zürich, Helvetiaplatz",47.376358,8.525362
+8591245,"Zürich, Laubegg",47.35873,8.517089
+8590652,"Horgen, Glärnischhof",47.25459,8.609489
+8503084,"Zürich, Dolder",47.3732,8.574527
+8591146,"Zürich, Friedhof Uetliberg",47.358707,8.500605
+8573180,"Knonau, Uttenberg",47.234497,8.448897
+8591283,"Zürich, Museum Rietberg",47.36072,8.531561
+8591156,"Zürich, Germaniastrasse",47.3873,8.552527
+8576283,"Dielsdorf, Dorfzentrum",47.481396,8.453668
+8590757,"Regensdorf, Pumpwerkstrasse",47.44612,8.462373
+8590741,"Opfikon, Austrasse",47.425037,8.57521
+8590851,"Volketswil, Chappeli",47.389458,8.674896
+8575017,"Schleinikon, Dachsleren",47.49808,8.391927
+8594249,"Benglen, Langwis",47.36196,8.630115
+8591346,"Zürich, Schumacherweg",47.412098,8.51479
+8503100,Zollikon,47.337337,8.569739
+8589106,"Volketswil, Zimikon",47.385178,8.6723175
+8591339,"Zürich, Scheuchzerstrasse",47.38779,8.544236
+8590648,"Hinteregg, Station",47.305862,8.684059
+8590896,"Wallisellen, Schäfligraben",47.423668,8.599375
+8591424,"Zürich, Waserstrasse",47.35832,8.584059
+8591829,"Fahrweid, Au",47.411648,8.414294
+8591037,"Zürich, Albisriederdörfli",47.375317,8.485217
+8591111,"Zürich, Dangelstrasse",47.33455,8.529971
+8503633,"Uster, See",47.343388,8.690751
+8591428,"Zürich, Werdhölzli",47.39783,8.482018
+8591833,"Unterengstringen, Sennenbüel",47.413166,8.448754
+8588046,"Uetikon am See, Gemeindehaus",47.262505,8.67998
+8591064,"Zürich Selnau, Bahnhof",47.37067,8.53201
+8590202,"Bergdietikon, Bernold",47.388035,8.388126
+8576246,"Regensdorf, Ostring",47.431984,8.471077
+8590904,"Wangen b D'dorf, Stierwisen",47.409615,8.6428175
+8590691,"Kilchberg ZH, Stockengut",47.324112,8.540373
+8595267,"Nürensdorf, Zentrum",47.446728,8.648216
+8590561,"Dübendorf, Am Ring",47.40215,8.607657
+8591333,"Zürich, Salzweg",47.387707,8.471769
+8589108,"Oberrieden, Tannenbach",47.269146,8.582549
+8573241,"Rümlang, Bahnhof",47.453953,8.532639
+8591246,"Zürich, Laubiweg",47.394993,8.53634
+8590217,"Dietikon, Bahnhofstrasse",47.4043,8.403686
+8576238,"Boppelsen, Dorf",47.470066,8.401916
+8595714,"Regensdorf, Allmend",47.44859,8.45665
+8576095,"Uster, Stadtpark",47.34815,8.715697
+8591154,"Zürich, Frymannstrasse",47.335133,8.519146
+8590818,"Thalwil, In Reben",47.29194,8.567933
+8575941,"Lindau, Eschikon",47.44808,8.682289
+8590713,"Maur, Dorf",47.340485,8.669632
+8503095,Sood-Oberleimbach,47.31962,8.521518
+8588029,"Meilen, Plätzli",47.2741,8.6253
+8591217,"Zürich, Kalchbühlweg",47.340534,8.531525
+8503067,Zollikerberg,47.346046,8.603399
+8503170,"Esslingen, Lieburg",47.296265,8.717907
+8591075,"Zürich, Bertastrasse",47.373886,8.513469
+8591023,"Zollikerb., Langägerten/Spital",47.346516,8.597919
+8590750,"Opfikon, Vreniker",47.428318,8.579594
+8591120,"Zürich, EPI-Klinik",47.348648,8.570656
+8588744,"Wallisellen, Kaserne",47.416855,8.585531
+8595143,"Otelfingen, Landstrasse",47.45932,8.386725
+8590673,"Kilchberg ZH, Bahnhof",47.324383,8.54808
+8590672,"Kilchberg ZH, Bächlerstrasse",47.329033,8.5396
+8590738,"Oetwil an der Limmat, Oberdorf",47.427734,8.398143
+8591315,"Zürich, Rehalp",47.35103,8.58298
+8591222,"Zürich, Kappeli",47.384987,8.495395
+8503163,"Oetwil am See, Felsengrund",47.281715,8.714925
+8576167,"Nürensdorf, Chrüzstrass",47.454243,8.6346245
+8590683,"Kilchberg ZH, Paradiessteig",47.32969,8.543149
+8503340,Opfikon,47.429955,8.561798
+8576242,"Zürich, Grünwald",47.417385,8.483169
+8590740,"Opfikon, Aublick",47.42468,8.577528
+8573232,"Kloten, Freienberg",47.463215,8.583789
+8591238,"Zürich, Krönleinstrasse",47.384193,8.561034
+8591447,"Zürich, Zwinglihaus",47.37151,8.515957
+8581541,"Uster, Jungholz",47.350376,8.696438
+8503660,Herrliberg (See),47.28348,8.609777
+8590464,"Adliswil, Bahnhof",47.311783,8.524311
+8590539,"Dietlikon, Bahnhof/Bad",47.421963,8.620809
+8503700,"Bassersdorf, Bahnhof",47.438717,8.626136
+8502878,"Bremgarten AG, Obertorplatz",47.350857,8.343831
+8502185,Bremgarten Isenlauf,47.346066,8.341522
+8503203,Oberrieden,47.279675,8.578462
+8503061,Langwies ZH,47.29605,8.694389
+8590240,"Killwangen, Mühlehalde",47.433975,8.348556
+8590519,"Dietikon, Lerzen",47.41764,8.399086
+8576217,"Küsnacht ZH, Ob. Heslibachstr.",47.3169,8.585549
+8576173,"Breite b. N'dorf, W'thurerstr.",47.461597,8.661107
+8576496,"Zufikon, Volg",47.34537,8.35709
+8503006,Zürich Oerlikon,47.41153,8.544137
+8588014,"Meilen, Allmend",47.27103,8.648207
+8572747,"Bremgarten AG, Bahnhof",47.35169,8.346175
+8591204,"Zürich, Hügelstrasse",47.358543,8.526998
+8573552,"Horgen, Altes Gemeindehaus",47.26051,8.596033
+8573234,"Kloten, Hohrainli",47.460022,8.581777
+8503653,Zürichhorn (See),47.352623,8.553129
+8591255,"Zürich, Letzistrasse",47.390682,8.545494
+8575938,"Tagelswangen, Buckstrasse",47.433746,8.672992
+8590272,"Spreitenbach, Fegistrasse",47.430252,8.369819
+8590608,"Fällanden, Jugendherberge",47.35972,8.653597
+8502220,Urdorf,47.39088,8.4347315
+8595709,"Rümlang, Heuelstrasse",47.452393,8.528461
+8591031,"Zürich Flughafen, REGA",47.458447,8.572919
+8591262,"Zürich, Löwenplatz",47.375896,8.537417
+8591353,"Zürich, Schwert",47.39973,8.504621
+8591171,"Zürich, Hadlaubstrasse",47.386795,8.551332
+8576274,Hüttikon,47.44612,8.38642
+8580872,"Uster, Ackerstrasse",47.353004,8.712706
+8590314,"Würenlos, Büntenstrasse",47.444492,8.367304
+8591029,"Zollikerberg, Trichtenhauserm.",47.35062,8.601953
+8503091,Zürich Giesshübel,47.362614,8.522012
+8576282,"Dielsdorf, Altmoos",47.475986,8.454863
+8576127,"Schwerzenbach ZH, Bahnhof",47.383984,8.659553
+8576205,"Zollikon, Goldhaldenplatz",47.335037,8.577518
+8576202,"Zollikon, Felbenstrasse",47.343204,8.569632
+8576288,"Regensberg, Höfli",47.480946,8.43677
+8591406,"Zürich, Universität Irchel",47.39616,8.544828
+8595129,"Dietlikon, Rebackerweg",47.42855,8.619533
+8591101,"Zürich, Bucheggplatz",47.39841,8.533285
+8590671,"Kilchberg ZH, Auf Brunnen",47.31877,8.545754
+8503305,Effretikon,47.425816,8.686682
+8590603,"Fahrweid, Limmatbrücke",47.407597,8.411887
+8503529,Würenlos,47.44576,8.357665
+8590735,"Oberrieden, Hubstrasse",47.27944,8.574626
+8500926,"Oetwil a.d.L., Schweizäcker",47.423626,8.403183
+8503070,Emmat,47.292377,8.701827
+8591831,"Gockhausen, Dorf",47.382008,8.598081
+8591370,"Zürich, Sihlweidstrasse",47.326416,8.514664
+8591277,"Zürich, Militär-/Langstrasse",47.3796,8.527626
+8590721,"Nänikon, Heuwinkelstrasse",47.36933,8.682586
+8588312,"Effretikon, Kapelle Rikon",47.432926,8.689044
+8588737,"Kloten, Geissbergstrasse",47.45487,8.59155
+8591365,"Zürich, Sihlcity",47.35797,8.522264
+8594732,"Unterengstringen, Sennenbüel N",47.413494,8.449311
+8590753,"Pfaffhausen, Sängglen",47.36705,8.624761
+8590974,"Winterthur, Neubruch",47.482822,8.69853
+8590397,"Spreitenbach, Center Spreitenb",47.422157,8.369855
+8590878,"Regensdorf-Watt, Bahnhof",47.43671,8.472837
+8590898,"Wallisellen, Sportzentrum",47.414772,8.606875
+8580724,"Horgen, Baumgärtlihof",47.259,8.599689
+8591057,"Zürich Altstetten, Bahnhof N",47.392067,8.489906
+8590831,"Unterengstringen, Aegelsee",47.414978,8.446033
+8590887,"Wallisellen, Guyer-Weg",47.416862,8.6003
+8590880,"Wallisellen, Alterszentrum",47.418526,8.595467
+8595077,"Dietlikon, Lettenstrasse",47.42457,8.611861
+8591329,"Zürich, Saalsporthalle",47.35786,8.520404
+8591431,"Zürich, Wieslergasse",47.404064,8.49596
+8590813,"Thalwil, Archstrasse",47.296078,8.561727
+8591437,"Zürich, Wipkingerplatz",47.39259,8.523575
+8591338,"Zürich, Schauenberg",47.4162,8.506929
+8594308,"Würenlos, Limmatbrücke",47.435314,8.356757
+8590840,"Urdorf, Luberzen",47.395176,8.422991
+8590273,"Spreitenbach, Furttalstrasse",47.42546,8.364663
+8576170,"Nürensdorf, Berg",47.45102,8.651378
+8591083,"Zürich, Grubenstrasse",47.36284,8.511672
+8590629,"Glattbrugg, Post",47.43054,8.561115
+8503872,"Uster, Reithalle",47.356297,8.726783
+8581308,"Bremgarten AG, Meyerhof",47.34718,8.340166
+8591318,"Zürich, Riedbach",47.41448,8.558187
+8591408,"Zürich, Untermoosstrasse",47.37983,8.483384
+8590697,"Kloten, Schluefweg",47.44606,8.581309
+8591420,"Zürich, Waldgarten",47.403717,8.557199
+8591224,"Zürich, Käshaldenstrasse",47.43002,8.540903
+8590775,"Rüschlikon, Eggrain",47.30456,8.544308
+8591203,"Zürich, Hubertus",47.37738,8.499149
+8591210,"Zürich, Im Hüsli",47.328236,8.512696
+8580310,"Remetschwil, Garage",47.40641,8.329018
+8591076,"Zürich, Berufswahlschule",47.404377,8.533331
+8590681,"Kilchberg ZH, Lindt & Sprüngli",47.319073,8.5511265
+8590537,"Dietikon, Weinberg",47.4023,8.382306
+8590823,"Thalwil, Platte",47.289986,8.568374
+8576256,"Adlikon b. R., Sonnhalde West",47.453304,8.458914
+8588010,"Herrliberg, Vogtei",47.289654,8.6097145
+8502278,Reppischhof,47.384727,8.39623
+8576257,"Buchs ZH, Petermoos",47.45719,8.443436
+8589109,"Horgen, Säntisstrasse",47.264416,8.586187
+8590843,"Urdorf, Niederurdorf",47.390335,8.4185705
+8591024,"Zollikerberg, Hasenbart",47.350113,8.597731
+8588502,Kleinikon,47.456818,8.685702
+8590677,"Kilchberg ZH, Hornhaldenstr.",47.332108,8.541846
+8590801,"Schlieren, Steinacker",47.39618,8.426377
+8591067,"Zürich, Bahnhofstrasse/HB",47.376225,8.539457
+8576280,"Regensdorf, Althard",47.438217,8.47017
+8587980,"Erlenbach ZH, Trottgatter",47.307182,8.613505
+8591051,"Zürich, Bachmattstrasse",47.388924,8.483051
+8583481,"Obfelden, Gessnerstrasse",47.262035,8.414869
+8590638,"Greifensee, Städtli",47.365322,8.678139
+8591311,"Zürich, Rautistrasse",47.383347,8.484094
+8590685,"Kilchberg ZH, Sanatorium",47.32711,8.544452
+8576182,"Zürich Tiefenbrunnen, Bahnhof",47.350418,8.560989
+8591286,"Zürich, Neubühl",47.33293,8.534947
+8591267,"Zürich, Maillartstrasse",47.416206,8.5321
+8591345,"Zürich, Schulhaus Buchlern",47.384666,8.478579
+8588316,"Bassersdorf, Dietlikonerstr.",47.441765,8.629665
+8594645,"Uetikon am See, Stötzli",47.269447,8.688021
+8576097,"Uster, Wil",47.3451,8.707801
+8503111,Winkel am Zürichsee,47.29721,8.598989
+8579186,"Oberrieden, Bahnhof",47.279423,8.579153
+8590838,"Urdorf, Heinrich-Stutz-Strasse",47.370426,8.424706
+8591183,"Zürich, Helmhaus",47.37007,8.543293
+8503303,Illnau,47.40882,8.722732
+8503528,Otelfingen,47.454937,8.387534
+8591354,"Zürich, Seebach",47.421864,8.549779
+8502982,"Eggenwil, Dorfplatz",47.36963,8.340695
+8591407,"Zürich, Unteraffoltern",47.424587,8.511843
+8590622,"Glattbrugg, Giebeleichstrasse",47.42855,8.563514
+8591215,"Zürich, Juchhof",47.39831,8.473179
+8588314,"Dietlikon, Bahnhof",47.420017,8.6189575
+8591369,"Zürich, Sihlstrasse",47.37227,8.53457
+8591082,"Zürich, Billoweg",47.351463,8.531974
+8591383,"Zürich, Stierenried",47.41662,8.535486
+8590611,"Fällanden, Wigarten",47.37101,8.64217
+8590200,"Bergdietikon, Baltenschwil",47.392784,8.392582
+8590487,"Aesch bei Maur, Im Brünneli",47.330276,8.654711
+8587984,"Meilen, Schwabach",47.275383,8.625731
+8580299,"Mettmenstetten, Wissenbach",47.23552,8.474374
+8591121,"Zürich, Eschergutweg",47.39627,8.51204
+8591414,"Zürich, Waffenplatz-/Bederstr.",47.361664,8.526504
+8573718,"Birmensdorf ZH, Bahnhof",47.35694,8.438801
+8590241,"Kindhausen AG, Eichholz",47.394196,8.380518
+8502222,Bonstetten-Wettswil,47.325905,8.468194
+8576160,"Bassersdorf, Löwen",47.443584,8.62813
+8588416,"Horgen, Bocken",47.244553,8.610459
+8591322,"Zürich, Röntgenstrasse",47.381935,8.529261
+8591320,"Zürich, Riedhofstrasse",47.409927,8.479575
+8590575,"Dübendorf, Lindenplatz",47.398506,8.6202965
+8590793,"Schlieren, Industrie Gaswerk",47.40095,8.463011
+8591090,"Zürich, Blumenfeldstrasse",47.42378,8.505259
+8506041,Embrach-Rorbas,47.520588,8.587068
+8594306,"Würenlos, Brunnenweg",47.44582,8.367205
+8591355,"Zürich, Seebacherplatz",47.419865,8.548368
+8591423,"Zürich, Wartau",47.40277,8.491631
+8576208,"Küsnacht ZH, Boglerenstrasse",47.326286,8.582307
+8594339,"Illnau, Dorfplatz",47.40773,8.724429
+8590536,"Dietikon, Weidstrasse",47.400726,8.388262
+8591445,"Zürich, Zweiackerstrasse",47.35705,8.597883
+8590780,"Rüschlikon, Park im Grüene",47.300373,8.550371
+8590396,"Spreitenbach, Spreiti West",47.429207,8.357889
+8572597,"Oberwil-Lieli, im Moos",47.341118,8.394029
+8572560,"Berikon-Widen, Bahnhof",47.361797,8.3667555
+8591223,"Zürich, Kappenbühlweg",47.402966,8.498242
+8591402,"Zürich, Tüffenwies",47.397923,8.49472
+8591168,"Zürich, Guggachstrasse",47.39571,8.54014
+8503086,Zürich Brunau,47.351643,8.526234
+8583613,"Waldegg, Leuen",47.36274,8.459633
+8502776,"Gattikon, Obstgarten",47.284725,8.551117
+8590533,"Dietikon, Stelzenacker",47.40432,8.391809
+8591199,"Zürich, Hölderlinstrasse",47.36611,8.5624
+8591278,"Zürich, Mittelleimbach",47.32314,8.514296
+8591085,"Zürich, Birch-/Glatttalstrasse",47.427402,8.546141
+8590700,"Kloten, Wallisellenstrasse",47.444164,8.589862
+8591058,"Zürich Enge, Bahnhof",47.36413,8.5315695
+8591344,"Zürich, Schulhaus Altweg",47.372276,8.4942
+8590512,"Dietikon, Birmensdorferstrasse",47.39758,8.417394
+8576128,"Volketswil, Hölzliwisen",47.380398,8.6782465
+8590996,"Winterthur, Schwimmbad Töss",47.484802,8.706634
+8503370,"Effretikon, Eselriet",47.42432,8.700255
+8576189,"Zollikon, Rebwiesstrasse",47.345715,8.589125
+8591047,"Zürich, Aubrücke",47.41088,8.572128
+8591073,"Zürich, Berninaplatz",47.40364,8.54791
+8591214,"Zürich, In der Ey",47.36924,8.491622
+8591401,"Zürich, Triemlispital",47.365967,8.496895
+8591078,"Zürich, Bethanien",47.380913,8.555995
+8590783,"Rüschlikon, Schlossstrasse",47.313686,8.553794
+8590901,"Wangen b D'dorf, Dorfplatz",47.41043,8.645889
+8573164,"Thalwil, Feldstrasse",47.290337,8.559678
+8588006,"Herrliberg, Rietli",47.286755,8.625543
+8587981,"Meilen, Eichholz",47.281887,8.623189
+8572565,"Stetten AG, Dörndler",47.403233,8.311411
+8591066,"Zürich Wipkingen, Bahnhof",47.393444,8.529522
+8591307,"Zürich, Radiostudio",47.40198,8.53519
+8502224,Affoltern am Albis,47.276073,8.446598
+8591372,"Zürich, Solidapark",47.387726,8.488496
+8590882,"Wallisellen, Blumenweg",47.41262,8.604486
+8591440,"Zürich, Wonnebergstrasse",47.35185,8.566541
+8503400,Bülach,47.52395,8.536205
+8589111,"Horgen, Gumelenstrasse",47.26088,8.59208
+8591041,"Zürich, Althoos",47.410706,8.52406
+8576241,"Zürich, Heizenholz",47.412296,8.483905
+8576163,"Bassersdorf, Rietli",47.444687,8.636188
+8572568,"Bremgarten AG, Badenerstrasse",47.356388,8.34852
+8503651,Zürich Bürkliplatz (See),47.36566,8.541002
+8576252,"Watt, Haldensteig",47.449013,8.4710865
+8591399,"Zürich, Trichtenhausenfussweg",47.3542,8.598602
+8591050,"Zürich, Auzelg Ost",47.41334,8.572165
+8575937,"Tagelswangen, Oberwis",47.43137,8.678256
+8590635,"Gockhausen, Ursprungstrasse",47.38485,8.600048
+8590760,"Regensdorf, Zentrum Ost",47.43022,8.470116
+8590787,"Schlieren, Bahnhof Nord",47.401093,8.449222
+8591336,"Zürich, Schäppiweg",47.38974,8.550893
+8503674,Thalwil (See),47.29669,8.56805
+8572570,"Bremgarten AG, Waage",47.349102,8.339061
+8590834,"Urdorf Weihermatt, Bahnhof",47.380093,8.429971
+8590777,"Rüschlikon, Loorain",47.307365,8.541999
+8576188,"Zollikon, Schützenstrasse",47.3449,8.585882
+8590839,"Urdorf, Herweg",47.39346,8.419316
+8590646,"Herrliberg, Wetzwil",47.294704,8.630789
+8587010,"Uster, Pfannenstielstrasse",47.347034,8.701648
+8583071,"Jonen, Radmühle",47.301968,8.392996
+8590715,"Maur, Platten",47.343357,8.660721
+8591124,"Zürich, Ettenfeld",47.42546,8.553633
+8591225,"Zürich, Genossenschaftsstrasse",47.415203,8.562373
+8591272,"Zürich, Max-Bill-Platz",47.414047,8.541334
+8591382,"Zürich, Sternen Oerlikon",47.410072,8.54623
+8590588,"Dübendorf, Sonnental",47.395435,8.60366
+8591207,"Zürich, Im Ebnet",47.431496,8.543751
+8503447,Zürich Storchen,47.37103,8.541964
+8588025,"Meilen, Hohenegg",47.274,8.66099
+8590906,"Wangen b D'dorf, Dürrbach",47.40806,8.6375885
+8572607,"Bremgarten AG, Stockweier",47.355976,8.326206
+8588096,"Volketswil, Hofwisen",47.381096,8.672982
+8503059,"Zürich Stadelhofen, Bahnhof",47.36635,8.548125
+8502955,"Oberlunkhofen, Post",47.311775,8.389825
+8591130,"Zürich, Feusisbergli",47.39267,8.470987
+8588003,"Herrliberg, Humrigen",47.284355,8.620045
+8590626,"Glattpark, Lindberghplatz",47.425602,8.56107
+8591123,"Zürich, ETH/Universitätsspital",47.37729,8.548233
+8503509,Schlieren,47.399178,8.447245
+8503898,"Horgen, Stotzweid/Feller",47.251072,8.597182
+8572644,"Staffeln AG, Gass",47.33198,8.3398695
+8595713,"Rümlang, Zürichweg",47.448837,8.527132
+8590551,"Dübendorf, Branzenäsch",47.394665,8.631157
+8595538,"Tagelswangen, Herdlen",47.43434,8.6732435
+8590517,"Dietikon, Hofacker",47.39826,8.411672
+8503310,Glattbrugg,47.43083,8.558851
+8591036,"Zürich, Albisrieden",47.374382,8.484785
+8591397,"Zürich, Toblerplatz",47.37909,8.559345
+8572596,"Oberwil-Lieli, Englisächer",47.341476,8.401063
+8591227,"Zürich, Kernstrasse",47.374508,8.524266
+8591429,"Zürich, Wetlistrasse",47.360157,8.568625
+8590543,"Dietlikon, Hofwiesen",47.42639,8.618518
+8591300,"Zürich, Stodolastrasse",47.356907,8.590562
+8588736,"Kloten, Ackerstrasse",47.454834,8.587157
+8573213,"Zürich Flughafen, Werft",47.44478,8.570691
+8576177,"Winterthur, Auwiesen",47.483757,8.70331
+8575979,"Uster, Koppach",47.34225,8.735047
+8590728,"Oberengstringen, Zentrum",47.40913,8.462606
+8590914,"Weiningen ZH, Schulhaus",47.41835,8.428668
+8576275,"Regensdorf, Holenbach",47.431217,8.460944
+8591049,"Zürich, Auzelg",47.41709,8.568841
+8591032,"Zürich Flughafen, Werkhof",47.44412,8.550013
+8575961,"Mönchaltorf, Wihalde",47.30158,8.720018
+8590663,"Horgen, Wannenthal",47.256603,8.602231
+8580847,"Bremgarten AG, Bibenlos",47.35384,8.349994
+8576287,"Regensberg, Hirsmühle",47.482258,8.444649
+8502274,Zufikon,47.352585,8.354683
+8591135,"Zürich, Förrlibuckstrasse",47.392216,8.517152
+8591148,"Zürich, Friedrichstrasse",47.40394,8.569065
+8591191,"Zürich, Himmeri",47.419876,8.538657
+8590765,"Rümlang, Letten",47.438747,8.53475
+8591334,"Zürich, SBB-Werkstätte",47.386562,8.503371
+8591352,"Zürich, Schweizer Rück",47.359882,8.535513
+8502553,"Unterlunkhofen, Breitenäcker",47.322998,8.379782
+8590474,"Adliswil, Krone",47.31308,8.527644
+8503077,Spital Zollikerberg,47.34731,8.596796
+8591220,"Zürich, Kantonsschule",47.37272,8.550524
+8590620,"Glattbrugg, Bahnhof",47.43057,8.559355
+8590637,"Greifensee, Pfisterhölzli",47.363976,8.690761
+8588098,"Gutenswil, Sternen",47.385365,8.71877
+8590712,"Maur, Aschbach",47.351902,8.660819
+8573720,"Arni AG, Stockacker",47.320034,8.423889
+8590670,"Kilchberg ZH, Altersheim",47.319893,8.5407505
+8588033,"Meilen, Vorderer Pfannenstiel",47.285522,8.679944
+8591349,"Zürich, Schwamendingerplatz",47.404594,8.571895
+8502750,"Bellikon, Dorf",47.38953,8.343364
+8591226,"Zürich, Kempfhofsteig",47.397305,8.510028
+8576239,"Boppelsen, Hand",47.468765,8.407243
+8590744,"Opfikon, Dorf",47.43222,8.577941
+8503096,Adliswil,47.312275,8.524258
+8573558,"Horgenberg, Hinterklausen",47.243137,8.5937605
+8590600,"Egetswil, Dorf",47.471916,8.582433
+8590547,"Dübendorf, Alterszentrum",47.38791,8.620395
+8591136,"Zürich, Frankental",47.405468,8.481632
+8591167,"Zürich, Grünaustrasse",47.39523,8.489214
+8589110,"Horgen, Widmerheim",47.267197,8.584445
+8503104,Meilen,47.269814,8.644308
+8591126,"Zürich, Fellenbergstrasse",47.375717,8.488415
+8591104,"Zürich, Burgwies",47.35802,8.571868
+8590510,"Dübendorf, Sport Heerenschürli",47.404472,8.595611
+8591119,"Zürich, Englischviertelstrasse",47.366734,8.558168
+8581543,"Uster, Krone",47.341125,8.725669
+8591415,"Zürich, Waffenplatzstrasse",47.36148,8.525748
+8596003,"Dielsdorf, Gesundheitszentrum",47.47956,8.450596
+8503381,"Grafstal, Thalegg",47.442646,8.704118
+8503313,Niederglatt ZH,47.487473,8.503318
+8503152,"Uster, Brandschenke",47.36114,8.710739
+8588007,"Herrliberg, Schulhaus",47.2884,8.61364
+8590631,"Glattbrugg, Zentrum",47.433376,8.565751
+8590849,"Urdorf, Uitikonerstrasse",47.38226,8.425928
+8591048,"Zürich, Ausserdorfstrasse",47.424515,8.548557
+8590708,"Langnau am Albis, Langmoos",47.283123,8.534399
+8590706,"Langnau am Albis, Altersheim",47.286236,8.533825
+8596100,"Bassersdorf, Sportanlage",47.44446,8.610711
+8590592,"Dübendorf, Wasserfurren",47.393982,8.611241
+8502565,"Aristau, Birri",47.279194,8.362228
+8590701,"Küsnacht ZH, Gartenstrasse",47.3115,8.587525
+8576276,"Dällikon, Industrie",47.444736,8.438783
+8530811,"Zürich, Balgrist",47.354576,8.575021
+8588026,"Meilen, In der Au",47.27239,8.665087
+8590540,"Dietlikon, Brandbachstrasse",47.416965,8.624653
+8591147,"Zürich, Friedhof Witikon",47.361343,8.602824
+8590657,"Horgen, Risi/Dow",47.250984,8.61788
+8590802,"Schlieren, Talacker-Windegg",47.40562,8.447811
+8587999,"Herrliberg, Grundhofstrasse",47.286144,8.617709
+8591257,"Zürich, Limmatplatz",47.384598,8.531624
+8580522,"Zürich, Escher-Wyss-Platz",47.390797,8.522398
+8503363,"Uetikon am See, Kleindorf",47.26429,8.682586
+8590617,"Geroldswil, Welbrig",47.41807,8.4190645
+8581547,"Uster, Herracher",47.340088,8.735218
+8591100,"Zürich, Brunaustrasse",47.356133,8.532216
+8590535,"Dietikon, Vorstadt",47.409122,8.397874
+8503317,Schöfflisdorf-Oberweningen,47.49797,8.411816
+8576171,"Breite b. Nürensdorf, Sternen",47.460827,8.659912
+8502880,"Busslingen, Stetterstrasse",47.407616,8.315875
+8576131,"Volketswil, Eichstrasse",47.394787,8.682253
+8590484,"Adliswil, Tiefacker",47.316566,8.530016
+8588055,"Uster, Oberlandstrasse",47.354355,8.715752
+8591252,"Zürich, Letzigrund",47.381237,8.503731
+8587969,"Erlenbach ZH, Erlenhöhe",47.306,8.602393
+8503673,Oberrieden (See),47.278625,8.581929
+8590597,"Ebmatingen, Looren",47.34043,8.651468
+8580434,"Kloten, Lindenstrasse",47.45211,8.58784
+8590885,"Wallisellen, Furtbach",47.411514,8.608107
+8590604,"Fällanden, Bruggacher",47.374966,8.63263
+8576161,"Bassersdorf, Gemeindehaus",47.443554,8.629064
+8591305,"Zürich, Probstei",47.400223,8.586592
+8591063,"Zürich Oerlikon, Bahnhof Ost",47.413338,8.545844
+8591087,"Zürich, Bircher-Benner",47.375736,8.564798
+8503055,Uitikon Waldegg,47.365925,8.46592
+8591221,"Zürich, Kapfstrasse",47.361153,8.571203
+8594185,"Glattpark, Wright-Strasse",47.42052,8.559211
+8590602,"Fahrweid, Brunaustrasse",47.414417,8.414043
+8576279,"Regensdorf, Hardhölzli",47.44161,8.465903
+8590795,"Schlieren, Mülligen",47.395645,8.467286
+8588739,"Kloten, Lägernstrasse",47.445126,8.576396
+8576209,"Küsnacht ZH, Schiedhaldenstr.",47.322975,8.582576
+8579192,"Horgen, Spital",47.2631,8.588801
+8503082,Adliswil (Luftseilbahnstation),47.31317,8.520053
+8591035,"Zürich, Albisrank",47.379818,8.494667
+8591331,"Zürich, Sackzelg",47.374386,8.495511
+8591358,"Zürich, Segantinistrasse",47.407444,8.489968
+8590900,"Wallisellen, Zielacker",47.414577,8.604881
+8502221,Birmensdorf ZH,47.35743,8.437552
+8503677,Kilchberg ZH (See),47.322556,8.551782
+8590710,"Lindau, Nürensdorferstrasse",47.440807,8.670862
+8588469,"Nürensdorf, Lindauerstrasse",47.444233,8.651863
+8588056,"Uster, Talweg",47.348515,8.730781
+8588019,"Meilen, Bundi",47.281178,8.667018
+8503253,"Uster, Hegetsberg",47.349342,8.733224
+8590633,"Glattpark, Chavez-Allee",47.42234,8.560828
+8590773,"Rüschlikon, Bodengasse",47.31042,8.552707
+8591239,"Zürich, Kunsthaus",47.370438,8.549141
+8576215,"Itschnach, Fallacher",47.329025,8.606085
+8576498,"Zufikon, Haldenstrasse",47.343315,8.356974
+8580443,"Glattbrugg, Riethofstrasse",47.43638,8.568922
+8575960,"Mönchaltorf, Traube",47.30857,8.72151
+8594309,"Würenlos, Spycher",47.444614,8.363657
+8587978,"Erlenbach ZH, Sandfelsenstr.",47.307255,8.600102
+8590789,"Schlieren, Am Rietpark",47.40138,8.44508
+8595073,"Dietlikon, Fuchshalde",47.420296,8.61275
+8503508,Dietikon,47.405785,8.404988
+8590269,"Spreitenbach, Breiti",47.429977,8.358913
+8575946,"Effretikon, Girhalde",47.434105,8.691272
+8575947,"Kyburg, Billikon",47.44275,8.726576
+8576200,"Zürich, Wildbachstrasse",47.353188,8.558869
+8579188,"Oberrieden, Seehalde",47.273315,8.583187
+8576178,"Winterthur, Töss",47.48917,8.7030945
+8572603,"Jonen, Käppeli",47.29947,8.393858
+8590593,"Dübendorf, Zelglistrasse",47.39393,8.617467
+8591072,"Zürich, Berghaldenstrasse",47.358505,8.590023
+8591186,"Zürich, Herdernstrasse",47.38483,8.509166
+8503308,Kloten,47.44861,8.583807
+8591218,"Zürich,Kalkbreite/Bhf.Wiedikon",47.374424,8.5213375
+8503382,"Illnau, Weisslingerstrasse",47.407936,8.727052
+8590640,"Greifensee, Im Hof",47.36489,8.681319
+8590782,"Rüschlikon, Säumerstrasse",47.30811,8.546167
+8590903,"Wangen b D'dorf, Oberdorf",47.407955,8.646007
+8575940,"Effretikon, Langhag",47.43717,8.686277
+8588059,"Uster, Weidli",47.353996,8.730637
+8591896,"Zürich, Würzgraben",47.392094,8.494856
+8590590,"Dübendorf, Sunnhalde",47.390537,8.632468
+8580438,"Kloten, Wohnheim",47.453625,8.593257
+8502894,"Oberwil-Lieli, Dreispitz",47.337173,8.38642
+8581542,"Uster, Burgstrasse",47.343052,8.720045
+8572645,"Hermetschwil, Kloster",47.333126,8.343157
+8530647,Fällanden (See),47.36576,8.652707
+8591160,"Zürich, Glaubtenstrasse",47.41417,8.518939
+8591089,"Zürich, Bleulerstrasse",47.347176,8.571589
+8591371,"Zürich, Singlistrasse",47.40511,8.49349
+8591281,"Zürich, Mühlacker",47.426186,8.496374
+8590767,"Rümlang, Gemeindehaus",47.450066,8.529827
+8582701,"Mettmenstetten, Oberdorf",47.247334,8.469729
+8591446,"Zürich, Zwielplatz",47.402187,8.496805
+8576210,"Küsnacht ZH, Schiedhaldensteig",47.321365,8.586825
+8591074,"Zürich, Bernoulli-Häuser",47.393764,8.508708
+8593529,"Unterengstringen, Langwisen",47.409046,8.448053
+8591140,"Zürich, Friedackerstrasse",47.405937,8.553192
+8591378,"Zürich, Stadtgrenze",47.33504,8.54147
+8503129,Wallisellen,47.412724,8.591928
+8590205,"Bergdietikon, Vorbühl",47.38964,8.385081
+8595128,"Dietlikon, Pünten",47.428318,8.616587
+8588311,"Effretikon, Brüttenerstrasse",47.431957,8.686035
+8587966,"Erlenbach ZH, Bahnhofstrasse",47.30379,8.591344
+8575115,"Oberweningen, Hüeblistrasse",47.500813,8.403029
+8503011,Zürich Wiedikon,47.37148,8.523485
+8576262,"Zürich, Zehntenhausplatz",47.41922,8.506462
+8588318,"Brüttisellen, Ob. Wangenstr.",47.42582,8.634849
+8503377,"Lindau, Dorf",47.441475,8.671492
+8591228,"Zürich, Kienastenwies",47.355152,8.601162
+8590734,"Oberrieden Dorf, Bahnhof",47.27683,8.577267
+8591174,"Zürich, Haldenegg",47.37965,8.544515
+8591092,"Zürich, Bollingerweg",47.414284,8.537903
+8591231,"Zürich, Klosbach",47.37003,8.564152
+8590739,"Oetwil an der Limmat, Post",47.427822,8.394819
+8573555,"Horgen, Bergli",47.257668,8.593158
+8503151,"Volketswil, Zentrum",47.389168,8.681507
+8588052,"Uster, Gschwader",47.35827,8.712778
+8503103,Herrliberg-Feldmeilen,47.281826,8.612733
+8590692,"Kilchberg ZH, Weinbergstrasse",47.331985,8.543283
+8580317,"Berikon, Stalden",47.34764,8.376503
+8590892,"Wallisellen, Lindenplatz",47.419914,8.598495
+8590586,"Dübendorf, Schwimmbad",47.396515,8.623153
+8590508,"Brüttisellen, Haldenbrücke",47.41881,8.631364
+8588319,"Brüttisellen, Zentrum",47.423847,8.630699
+8591165,"Zürich, Grimselstrasse",47.386967,8.490086
+8590538,"Dietlikon, Aegert",47.412067,8.621437
+8577867,"Horgen, Waidli",47.254158,8.605528
+8590841,"Urdorf, Neumatt",47.387207,8.4204035
+8503579,"Birmensdorf ZH, Obere Risi",47.359455,8.450793
+8576216,"Küsnacht ZH, Oberwacht",47.3194,8.584508
+8576221,"Küsnacht ZH, Ränkestrasse",47.314545,8.595279
+8590618,"Geroldswil, Zentrum",47.421455,8.409444
+8588021,"Meilen, Grueb",47.26666,8.659355
+8591434,"Zürich, Winzerhalde",47.40006,8.494568
+8575918,"Effretikon, Bahnhof",47.42514,8.6861515
+8591263,"Zürich, Luchswiesen",47.406876,8.585873
+8590699,"Kloten, Stadthaus",47.45126,8.581103
+8590568,"Dübendorf, Im Grund",47.401554,8.617583
+8590825,"Thalwil, Rainstrasse",47.28695,8.571715
+8590822,"Thalwil, Pilgerweg",47.29816,8.561115
+8590779,"Rüschlikon, Moosstrasse",47.302612,8.54544
+8588095,"Gutenswil, Grossenacher",47.382343,8.717108
+8590220,"Dietikon, Marmori-Weiher",47.39928,8.394478
+8595074,"Dietlikon, Hinentalstrasse",47.42554,8.608196
+8590625,"Glattbrugg, Lättenwiesen",47.428123,8.565697
+8506042,Pfungen,47.516037,8.646635
+8590902,"Wangen b D'dorf, Hätzelwisen",47.41032,8.642727
+8573561,"Hirzel, Strickler",47.229767,8.600865
+8576201,"Zollikon, Bahnübergang",47.34592,8.5661545
+8590274,"Spreitenbach, Härdlistrasse",47.43128,8.367798
+8591237,"Zürich, Kronenstrasse",47.38796,8.5391245
+8587680,"Uster, Gschwaderstrasse",47.354702,8.708654
+8590812,"Thalwil, Alterszentrum",47.285572,8.56982
+8573160,"Langnau am Albis, Dorf",47.288612,8.539987
+8591211,"Zürich, Im Klösterli",47.38463,8.576935
+8587857,"Kyburg, Ausserdorf",47.454437,8.743284
+8594189,"Wallisellen, Säntisstrasse",47.413025,8.600623
+8587972,"Erlenbach ZH, Im Streuli",47.29705,8.6064

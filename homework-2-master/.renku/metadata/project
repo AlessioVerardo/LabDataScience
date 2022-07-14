@@ -1,0 +1,32 @@
+{
+  "@renku_data_type": "renku.core.models.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "1.0.5",
+  "annotations": [],
+  "automated_update": false,
+  "creator": {
+    "@renku_data_type": "renku.core.models.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "eric.bouillet@epfl.ch",
+      "id": "mailto:eric.bouillet@epfl.ch",
+      "name": "Eric Pierre Bouillet"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2022-03-19T09:46:57+00:00"
+  },
+  "description": "Module 2",
+  "id": "/projects/eric.bouillet/homework-2",
+  "immutable_template_files": [],
+  "keywords": [],
+  "name": "homework-2",
+  "template_id": "python-minimal",
+  "template_metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.3.0\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"com490-teachers\", \"__automated_update__\": true, \"__repository__\": \"https://dslab2022-renku.epfl.ch/gitlab\", \"__sanitized_project_name__\": \"homework-2\", \"__project_slug__\": \"com490-teachers/homework-2\", \"__project_description__\": \"Module 2\", \"__renku_version__\": \"1.0.5\", \"name\": \"homework-2\", \"__name__\": \"homework-2\"}",
+  "template_ref": "0.3.0",
+  "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+  "template_version": "fc5fddb1e14055ef5ac3b3332fc9bb8e271d7e08",
+  "version": 9
+}

@@ -1,0 +1,28 @@
+name: "base"
+channels:
+  - defaults
+  - conda-forge
+# - add packages here
+# - one per line
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - ipywidgets
+  - jupytext
+  - plotly=4.14.3
+  - scikit-learn
+  - happybase
+  - bash_kernel
+  - seaborn
+  - pykafka
+  - voila
+  - hdfs3
+  - pip
+  - pip:
+      - hdijupyterutils==0.19.1
+      - sparkmagic==0.19.1
+      - pyspark
+      - geopandas
+prefix: "/opt/conda"
+

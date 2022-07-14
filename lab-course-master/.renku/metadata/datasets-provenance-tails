@@ -1,0 +1,54 @@
+{
+  "@renku_data_type": "renku.core.metadata.database.RenkuOOBTree",
+  "@renku_data_value": {
+    "@renku_data_type": "builtins.tuple",
+    "@renku_data_value": [
+      {
+        "@renku_data_type": "builtins.tuple",
+        "@renku_data_value": [
+          {
+            "@renku_data_type": "builtins.tuple",
+            "@renku_data_value": [
+              {
+                "@renku_data_type": "builtins.tuple",
+                "@renku_data_value": [
+                  "/datasets/0590ad7621774212b6be734efac9a232",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "00014c5bf70cccd8270f774cb9cc50c4f5b14bc646b8b2f5c5076f6d320e61af",
+                    "@renku_reference": true
+                  },
+                  "/datasets/0fbabf5dfb134499badbf0a037f6fe82",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "971429ee907f093ec15ccafe5900ac037bfbc314047760a53611c52fabda466d",
+                    "@renku_reference": true
+                  },
+                  "/datasets/1367376214db4cdf84bc5596b2e18fea",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "da87348d9dd64558460fd7396d0b2456f1b3f0ba5f808962a58a77d97749fcd6",
+                    "@renku_reference": true
+                  },
+                  "/datasets/1f07226b93984d75af5ca655ad825a5b",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "b92bd7072ea33fc4c958fda436cfe3c81a48fc5e2b6b2c081f8ea5d7bb903d28",
+                    "@renku_reference": true
+                  },
+                  "/datasets/eb68f760d6ab4c73b241bed33f2c7105",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "837b2d4d48e5e9cf3e9dd48fcca38de9de6d976a9852f08cdbbd3c8b1b0eaefc",
+                    "@renku_reference": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "@renku_oid": "datasets-provenance-tails"
+}

@@ -1,0 +1,30 @@
+{
+  "@renku_data_type": "renku.core.metadata.database.RenkuOOBTree",
+  "@renku_data_value": {
+    "@renku_data_type": "builtins.tuple",
+    "@renku_data_value": [
+      {
+        "@renku_data_type": "builtins.tuple",
+        "@renku_data_value": [
+          {
+            "@renku_data_type": "builtins.tuple",
+            "@renku_data_value": [
+              {
+                "@renku_data_type": "builtins.tuple",
+                "@renku_data_value": [
+                  "/datasets/47b69f488ca244d0b76072beac9a31c4",
+                  {
+                    "@renku_data_type": "renku.core.models.dataset.Dataset",
+                    "@renku_oid": "5fa26caf31dccdb8b581a15b0b4ce0614076359c0e73fbae5a6f9a0c63a1e99f",
+                    "@renku_reference": true
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "@renku_oid": "datasets-provenance-tails"
+}
